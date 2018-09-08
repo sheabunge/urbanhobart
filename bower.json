@@ -1,0 +1,18 @@
+{
+  "name": "govhack18",
+  "description": "Govhack 2018 project",
+  "main": "gulpfile.babel.js",
+  "authors": [
+    "Shea Bunge <bungeshea@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

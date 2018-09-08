@@ -1,0 +1,52 @@
+
+.artwork-single {
+	display: flex;
+	flex-direction: row;
+	margin: 1.5em;
+	justify-content: space-around;
+	align-items: center;
+
+	figure {
+		flex: 1 1 40%;
+		margin: 20px 0 20px 20px;
+
+		img {
+			width: 100%;
+		}
+	}
+
+	.artwork-details {
+	    flex: 1 1 60%;
+	}
+
+	table {
+		margin-top: 2em;
+
+		th, td {
+			padding: 10px 0;
+		}
+
+		th {
+			padding-right: 15px;
+		}
+	}
+
+	table, th, td {
+		border: none;
+	}
+}
+
+.single-artwork-page {
+
+	iframe {
+	    margin: 0 auto;
+        display: block;
+		width: 90%;
+	}
+}
+
+.single-artwork-map {
+    max-width: 70%;
+    height: 350px;
+    margin: 0 auto;
+}

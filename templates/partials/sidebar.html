@@ -1,0 +1,52 @@
+<aside class="secondary">
+
+	<header>
+		<h1 class="logo">
+			<span>urban</span><br>hob<span>art</span>
+			<span class="far fa-paint-brush-alt"></span>
+		</h1>
+	</header>
+
+	<nav class="site-navigation">
+		<ul>
+
+			{% set items = [
+				('/', 'Artwork', 'palette'),
+				('/map', 'Locations', 'map-marked-alt'),
+			] %}
+
+			{% for route, label, icon in items %}
+				<li>
+					<a href="{{ route }}">
+						<i class="far fa-{{ icon }}"></i>
+						{{ label }}
+					</a>
+				</li>
+			{% endfor %}
+		</ul>
+
+		<form class="filter-artwork">
+
+			{% set filters = (('material', materials), ('artist', artists), ('type', types)) %}
+
+			{% for filter_name, values in filters %}
+
+			<fieldset>
+				<label for="{{ filter_name }}">{{ filter_name.title() }}</label>
+
+				<select name="{{ filter_name }}" id="{{ filter_name }}_filter">
+					<option>{{ filter_name.upper() }}</option>
+
+					{% for slug, value in values.items() %}
+						<option value="{{ slug }}"{{ ' selected' if filter_value and slug == filter_value else '' }}>{{ value }}</option>
+					{% endfor %}
+				</select>
+			</fieldset>
+
+			{% endfor %}
+
+			<input type="submit">
+		</form>
+
+	</nav>
+</aside>

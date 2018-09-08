@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	{% include 'partials/meta.html' %}
+	<title>urban hobart</title>
+</head>
+<body class="single-artwork-page">
+
+<div class="site">
+	{% include 'partials/sidebar.html' %}
+
+	<main class="main">
+		<div class="artwork-single">
+
+			<div class="artwork-details">
+				<h1 class="artwork-title">{{ artwork.title }}</h1>
+
+				<div class="artwork-description">
+					{{ artwork.description }}
+				</div>
+
+				<table>
+					<tr><th>Created by</th><td>{{ artwork.artist | link_list('artist') | safe }}</td></tr>
+
+					{% if artwork.material %}
+					<tr><th>Materials</th><td>{{ artwork.material | link_list('material') | safe }}</td></tr>
+					{%  endif %}
+
+					<tr><th>Type</th><td>{{ artwork.type | link_list('type') | safe }}</td></tr>
+					<tr><th>Year</th><td>{{ artwork.year }}</td></tr>
+					<tr><th>Address</th><td>{{ artwork.address }}</td></tr>
+
+					{% if artwork.link_url %}
+						<tr><th>More information</th><td><a href="{{ artwork.link_url }}" target="_blank">{{ artwork.link_url }}</a></td></tr>
+					{% endif %}
+				</table>
+			</div>
+
+			{% if artwork.images %}
+				<figure>
+					<a href="/static/images/full/{{ artwork.images[0] }}" title="View full image">
+						<img src="/static/images/full/{{ artwork.images[0] }}">
+					</a>
+				</figure>
+			{% endif %}
+
+		</div>
+
+		{% if show_map %}
+			<div class="embedded-map">
+				<div id="map" class="single-artwork-map" data-x="{{ artwork.x }}" data-y="{{ artwork.y }}"></div>
+			</div>
+		{% endif %}
+
+		{% if map_url %}
+			<iframe width="600" height="450" frameborder="0" style="border:0" src="{{ map_url }}" allowfullscreen></iframe>
+		{% endif %}
+	</main>
+
+	{% include 'partials/footer.html' %}
+</div>
+
+<script src="/static/dist/app.js"></script>
+
+{#{% if show_map %}#}
+{#	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDHcTEGDOEvnSfv7oQbEcGxzIWFxPVDeM4&callback=init_map" async defer></script>#}
+{#{% endif %}#}
+
+</body>
+</html>

@@ -1,0 +1,44 @@
+
+.site {
+	background-color: whitesmoke;
+	max-width: 1260px;
+}
+
+.secondary {
+	padding: 0 10px;
+	min-height: 100vh;
+	position: fixed;
+    width: 215px;
+	top: 0;
+}
+
+.main, .site-footer {
+	margin-left: 215px;
+}
+
+.site-footer {
+	margin-top: 1.5em;
+	font-size: small;
+	text-align: center;
+	clear: both;
+
+	p {
+		margin-bottom: 10px;
+	}
+
+	.logo {
+		font-weight: 600;
+	}
+}
+
+.logo {
+	span {
+		color: red;
+	}
+}
+
+.filter-title {
+	margin-left: 1.5em;
+}
+
+

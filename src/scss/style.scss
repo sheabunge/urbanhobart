@@ -1,0 +1,33 @@
+$fa-font-path: '../fonts';
+@import '../../node_modules/@fortawesome/fontawesome-pro/scss/regular';
+@import '../../node_modules/@fortawesome/fontawesome-pro/scss/fontawesome';
+
+@import 'reset';
+@import 'elements';
+@import 'site';
+@import 'sidebar';
+@import 'details';
+
+.artwork-grid {
+  line-height: 0;
+  column-count: 5;
+  column-gap: 0;
+
+  figure {
+    display: inline-block;
+    background: black;
+
+    img {
+      display: block;
+      padding: 0;
+      margin: 0;
+      width: 100%;
+      height: auto;
+      transition: all 0.3s linear;
+    }
+
+    &:hover img {
+      opacity: 0.5;
+    }
+  }
+}

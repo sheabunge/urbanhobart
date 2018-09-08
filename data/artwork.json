@@ -1,0 +1,3141 @@
+[
+    {
+        "title": "Bust of Cecil Voss",
+        "id": "bust-of-cecil-voss",
+        "artist": "Greg Duncan",
+        "address": "Soundy Park",
+        "description": "Stone Sculpture",
+        "type": "Art",
+        "year": "1998",
+        "images": [
+            "bust-of-cecil-voss.jpg"
+        ],
+        "long": "147.31949317719392",
+        "lat": "-42.872743122549601",
+        "material": "Stone"
+    },
+    {
+        "title": "Community Paving Project",
+        "id": "community-paving-project",
+        "artist": "Julie Stoneman (Community Facilitator)",
+        "address": "Elizabeth Street and side streets, North Hobart",
+        "type": "Art",
+        "year": "1994",
+        "images": [
+            "community-paving-project.jpg"
+        ],
+        "long": "147.315502336481785",
+        "lat": "-42.87335406456058",
+        "material": "Pavers"
+    },
+    {
+        "title": "Lightpoles",
+        "id": "lightpoles",
+        "artist": "Gerhardt Mauz/Kieran Bradley",
+        "address": "Elizabeth Street",
+        "description": "Lightpoles and Photography",
+        "type": "Art",
+        "year": "2005",
+        "images": [
+            "lightpoles.jpg"
+        ],
+        "long": "147.314624677999348",
+        "lat": "-42.8724802622841",
+        "material": "Steel"
+    },
+    {
+        "title": "Tony Haigh Walk",
+        "id": "tony-haigh-walk",
+        "artist": "Peter Gouldthorpe",
+        "description": "2 Trompe l'oeil murals",
+        "type": "Art",
+        "year": "2000",
+        "images": [
+            "tony-haigh-walk.jpg"
+        ],
+        "long": "147.316068455525766",
+        "lat": "-42.873907194142433"
+    },
+    {
+        "title": "Cultural Bollard",
+        "id": "cultural-bollard",
+        "artist": "Gehard Mausz",
+        "address": "Elizabeth Street",
+        "description": "Patterened Steel Cylinder",
+        "type": "Art",
+        "year": "2000",
+        "images": [
+            "cultural-bollard.jpg"
+        ],
+        "long": "147.315924612329724",
+        "lat": "-42.873671523147344",
+        "material": "Steel"
+    },
+    {
+        "title": "Art Pavers",
+        "id": "art-pavers",
+        "artist": "Peter Battaglene",
+        "address": "Elizabeth Street",
+        "description": "Sandblasted decorative pavers",
+        "type": "Art",
+        "year": "2005",
+        "images": [
+            "art-pavers.jpg"
+        ],
+        "long": "147.315868299345766",
+        "lat": "-42.873645652361859",
+        "material": "Pavers"
+    },
+    {
+        "title": "Fences",
+        "id": "fences",
+        "artist": "Sharyn Woods",
+        "description": "Sections of open patterned stainless steel fencing",
+        "type": "Art",
+        "year": "2005",
+        "images": [
+            "fences.jpg"
+        ],
+        "long": "147.314837027175003",
+        "lat": "-42.872723785619193",
+        "material": "Stainless Steel"
+    },
+    {
+        "title": "Tree Guards",
+        "id": "tree-guards",
+        "artist": "Sharyn Woods",
+        "address": "Elizabeth Street",
+        "description": "welded stainless strip boxes",
+        "type": "Sculpture",
+        "year": "2005",
+        "images": [
+            "tree-guards.jpg"
+        ],
+        "long": "147.315198467992445",
+        "lat": "-42.873030574537125",
+        "material": "Stainless Steel"
+    },
+    {
+        "title": "Tree Sculpture",
+        "id": "tree-sculpture",
+        "artist": "Roland Gabatel",
+        "address": "Friends Park, Mellifont Street.",
+        "description": "Chainsaw sculpture",
+        "type": "Sculpture",
+        "year": "2000",
+        "images": [
+            "tree-sculpture.jpg"
+        ],
+        "long": "147.308407041730788",
+        "lat": "-42.876722678660059",
+        "material": "Timber"
+    },
+    {
+        "title": "Archway",
+        "id": "archway",
+        "artist": "Peter Taylor",
+        "address": "Hunter Street, Universtiy of Tasmania Art School",
+        "type": "Sculpture",
+        "year": "1988",
+        "images": [
+            "archway.jpg",
+            "archway-alt.jpg"
+        ],
+        "long": "147.336308913480906",
+        "lat": "-42.881442401599259",
+        "material": "Timber"
+    },
+    {
+        "title": "The Bernacchi Tribute: Self Portrait, Lous and Joe",
+        "id": "the-bernacchi-tribute-self-portrait-lous-and-joe",
+        "artist": "Stephen Walker",
+        "address": "Victoria Dock",
+        "description": "Bronze sculpture",
+        "type": "Sculpture",
+        "year": "1988",
+        "images": [
+            "the-bernacchi-tribute-self-portrait-lous-and-joe.jpg",
+            "the-bernacchi-tribute-self-portrait-lous-and-joe-alt.jpg"
+        ],
+        "long": "147.335172378254811",
+        "lat": "-42.882252388341321",
+        "material": "Bronze"
+    },
+    {
+        "title": "Troyseas",
+        "id": "troyseas",
+        "artist": "David Hurst",
+        "address": "Mures Fish Centre, waterfront",
+        "description": "Bronze seahorse",
+        "type": "Sculpture",
+        "year": "2004",
+        "images": [
+            "troyseas.jpg"
+        ],
+        "long": "147.333709827026553",
+        "lat": "-42.882286529327025",
+        "material": "Bronze"
+    },
+    {
+        "title": "Bright Prospect",
+        "id": "bright-prospect",
+        "artist": "Iam Makay",
+        "address": "TMAG, 40 Macquarie Street",
+        "description": "Orange painted constructavist steel sculpture ",
+        "type": "Sculpture",
+        "year": "1979",
+        "images": [
+            "bright-prospect.jpg"
+        ],
+        "long": "147.331941646086733",
+        "lat": "-42.881635734050192",
+        "material": "Steel, Paint"
+    },
+    {
+        "title": "Mural, Kent & Kent Antiques",
+        "id": "mural-kent-kent-antiques",
+        "artist": "John Arnold",
+        "address": "On the wall of Kent and Kent Antiques",
+        "description": "Painted Mural",
+        "type": "Public Art",
+        "year": "1998",
+        "images": [
+            "mural-kent-kent-antiques.jpg"
+        ],
+        "long": "147.33215442097179",
+        "lat": "-42.882954235192358",
+        "material": "Paint"
+    },
+    {
+        "title": "Tidal Pools",
+        "id": "tidal-pools",
+        "artist": "Stephen Walker",
+        "address": "Long Beach, Sandy Bay",
+        "description": "Bronze sculpture",
+        "type": "Sculpture",
+        "year": "1970",
+        "images": [
+            "tidal-pools.jpg",
+            "tidal-pools-alt.jpg"
+        ],
+        "long": "147.356490005316573",
+        "lat": "-42.912337056584342",
+        "material": "Bronze"
+    },
+    {
+        "title": "Tasman Monument",
+        "id": "tasman-monument",
+        "artist": "Stephen Walker",
+        "address": "Salamanca Place",
+        "description": "Concrete forms incorporating bronze sculptures",
+        "type": "Memorial",
+        "year": "1988",
+        "images": [
+            "tasman-monument.jpg"
+        ],
+        "long": "147.331571707378373",
+        "lat": "-42.886334219256874",
+        "material": "Concrete, Steel, Bronze"
+    },
+    {
+        "title": "Journey to Southland",
+        "id": "journey-to-southland",
+        "artist": "Stephen Walker",
+        "address": "Salamanca Square",
+        "description": "circular fountain with bronze sculptures",
+        "type": "Public Art",
+        "year": "1979",
+        "images": [
+            "journey-to-southland.jpg"
+        ],
+        "long": "147.33279166264353",
+        "lat": "-42.887367730527664",
+        "material": "Bronze, concrete"
+    },
+    {
+        "title": "Wave",
+        "id": "wave",
+        "artist": "Peter Wilson",
+        "address": "Salamanca Square",
+        "description": "sculpture in painted steel and aluminium",
+        "type": "Sculpture",
+        "year": "1998",
+        "images": [
+            "wave.jpg"
+        ],
+        "long": "147.332340804580269",
+        "lat": "-42.88746172408802",
+        "material": "Aluminium, Steel"
+    },
+    {
+        "title": "Gift from the Earth",
+        "id": "gift-from-the-earth",
+        "artist": "Keizo Ushio",
+        "address": "A J White Park, Battery Poing",
+        "description": "Granite sculpture",
+        "type": "Sculpture",
+        "year": "2001",
+        "images": [
+            "gift-from-the-earth.jpg"
+        ],
+        "long": "147.338076956863603",
+        "lat": "-42.88919132741534",
+        "material": "Granite, Timber"
+    },
+    {
+        "title": "Victoria Cross Memorial",
+        "id": "victoria-cross-memorial",
+        "artist": "Joe Burgden, Bernard Lloyd, Sound Connections",
+        "address": "Cenotaph, Hobart",
+        "description": "Rammed Earth and glass monument",
+        "type": "Sculpture",
+        "year": "2003",
+        "images": [
+            "victoria-cross-memorial.jpg"
+        ],
+        "long": "147.335821167019816",
+        "lat": "-42.877523790074463",
+        "material": "Rammed Earth, Glass"
+    },
+    {
+        "title": "Wapping History Wall",
+        "id": "wapping-history-wall",
+        "artist": "Penny Smith, Mialn Milojevic, John Smith",
+        "address": "Collins Street, Brooker Highway",
+        "type": "Public Art",
+        "year": "1998",
+        "images": [
+            "wapping-history-wall.jpg"
+        ],
+        "long": "147.333036162390584",
+        "lat": "-42.878806385316068",
+        "material": "Concrete, Brick"
+    },
+    {
+        "title": "Railway Roundabout Fountain",
+        "id": "railway-roundabout-fountain",
+        "artist": "Geoff Parr, Vere Cooper, Rod Cuthbert",
+        "address": "Brooker Highway",
+        "description": "Fountain",
+        "type": "Sculpture",
+        "year": "1963",
+        "images": [
+            "railway-roundabout-fountain.jpg"
+        ],
+        "long": "147.331025998867062",
+        "lat": "-42.878044798323636",
+        "material": "Concrete"
+    },
+    {
+        "title": "Minute Man",
+        "id": "minute-man",
+        "artist": "Christopher Beecroft",
+        "address": "TAS HQ Campbell and Melville Street",
+        "description": "Welded mild steel sculpture",
+        "type": "Sculpture",
+        "year": "1986",
+        "long": "147.327098344599875",
+        "lat": "-42.877450309438586",
+        "material": "Steel"
+    },
+    {
+        "title": "Brick",
+        "id": "brick",
+        "artist": "Glen Clake",
+        "address": "Hobart Remand Centre, 23 - 25 Liverpool Street.",
+        "type": "Sculpture",
+        "year": "1998",
+        "long": "147.329367319391139",
+        "lat": "-42.879201008581525",
+        "material": "Metal"
+    },
+    {
+        "title": "Hobart Rivulet Interpretaions",
+        "id": "hobart-rivulet-interpretaions",
+        "artist": "Hobart City Council",
+        "address": "Argyle Street",
+        "description": "Two rectangular steel panels",
+        "type": "Art",
+        "year": "1998",
+        "images": [
+            "hobart-rivulet-interpretaions.jpg"
+        ],
+        "long": "147.328980299771558",
+        "lat": "-42.880595208510691",
+        "material": "Steel"
+    },
+    {
+        "title": "Inspiration",
+        "id": "inspiration",
+        "artist": "Tom Samek",
+        "address": "25 Argyle Street.",
+        "description": "Sculpture on column",
+        "type": "Sculpture",
+        "year": "1990",
+        "images": [
+            "inspiration.jpg"
+        ],
+        "long": "147.330481958217291",
+        "lat": "-42.881505820686321"
+    },
+    {
+        "title": "Duality",
+        "id": "duality",
+        "artist": "Irene Bryant",
+        "address": "70 Collins Street",
+        "description": "Ferro-cement sculpture",
+        "type": "Sculpture",
+        "year": "1991",
+        "images": [
+            "duality.jpg"
+        ],
+        "long": "147.329820882241677",
+        "lat": "-42.881479135290306",
+        "material": "Concrete, Steel"
+    },
+    {
+        "title": "Tree Guards",
+        "id": "tree-guards-1",
+        "artist": "Sharyn Woods",
+        "address": "Commonwealth Bank corner Elizabeth Street",
+        "type": "Sculpture",
+        "year": "1999",
+        "images": [
+            "tree-guards-1.jpg"
+        ],
+        "long": "147.327034649512512",
+        "lat": "-42.88115911197071",
+        "material": "Stainless Steel"
+    },
+    {
+        "title": "City Women",
+        "id": "city-women",
+        "artist": "Wayne Hudson, Helene Czerny",
+        "address": "Elizabeth Lane, Cat and Fiddle aracde.",
+        "description": "steel wall mounted sculpture",
+        "type": "Sculpture",
+        "year": "1998",
+        "images": [
+            "city-women.jpg"
+        ],
+        "long": "147.327455307755343",
+        "lat": "-42.881696789275175",
+        "material": "Steel"
+    },
+    {
+        "title": "Seats with leaning Posts",
+        "id": "seats-with-leaning-posts",
+        "artist": "Wayne Hudson",
+        "address": "Elizabeth Lane, Cat and Fiddle arcade",
+        "description": "-",
+        "type": "Public Art",
+        "year": "1998",
+        "images": [
+            "seats-with-leaning-posts.jpg"
+        ],
+        "long": "147.327325115285731",
+        "lat": "-42.881890156128264",
+        "material": "Stainless Steel"
+    },
+    {
+        "title": "Paving Design",
+        "id": "paving-design",
+        "artist": "Julie Stoneman",
+        "address": "Ctriterion Street",
+        "description": "Brick paving",
+        "type": "Sculpture",
+        "year": "1998",
+        "images": [
+            "paving-design.jpg"
+        ],
+        "long": "147.325923132837659",
+        "lat": "-42.881443835736569",
+        "material": "Brick Pavers"
+    },
+    {
+        "title": "Chantale Delrue",
+        "id": "chantale-delrue",
+        "artist": "Pavement Art",
+        "address": "Mathers Lane",
+        "type": "Sculpture",
+        "year": "1990",
+        "images": [
+            "chantale-delrue.jpg"
+        ],
+        "long": "147.325596608342721",
+        "lat": "-42.881718348402337"
+    },
+    {
+        "title": "Hobart Rivulet Interpretations",
+        "id": "hobart-rivulet-interpretations",
+        "artist": "Ian Chalmers, Lindsay Garity",
+        "address": "Murray Street, Centrepoint pedestrian crossing",
+        "description": "Curved steel strips in pavement",
+        "type": "Sculpture",
+        "year": "1995",
+        "images": [
+            "hobart-rivulet-interpretations.jpg"
+        ],
+        "long": "147.326490181163308",
+        "lat": "-42.883046214574243",
+        "material": "Steel, Concrete"
+    },
+    {
+        "title": "Reaching Out",
+        "id": "reaching-out",
+        "artist": "Allan Mansell",
+        "address": "188 Collins Street",
+        "description": "Sculpture and Mural",
+        "type": "Sculpture and Mural",
+        "year": "2004",
+        "images": [
+            "reaching-out.jpg"
+        ],
+        "long": "147.322632571742446",
+        "lat": "-42.886899288366429"
+    },
+    {
+        "title": "Tile",
+        "id": "tile",
+        "artist": "George Davis",
+        "address": "UTAS Conservatorium of Music",
+        "description": "Tile wall mosaic on building",
+        "type": "Sculpture",
+        "year": "1964",
+        "images": [
+            "tile.jpg"
+        ],
+        "long": "147.3281256124001",
+        "lat": "-42.886778125483787",
+        "material": "Tiles"
+    },
+    {
+        "title": "Paving design",
+        "id": "paving-design-1",
+        "artist": "Paul Zika",
+        "address": "Elizabeth Street Mall",
+        "description": "Symmetrical design in coloured bricks",
+        "type": "Sculpture",
+        "year": "1996",
+        "images": [
+            "paving-design-1.jpg"
+        ],
+        "long": "147.327468739804914",
+        "lat": "-42.881456505655876",
+        "material": "Brick"
+    },
+    {
+        "title": "Hobart Rivulet Interpretations",
+        "id": "hobart-rivulet-interpretations-1",
+        "artist": "Ian Chalmers, Lindsay Garity",
+        "address": "Murray Street, Centrepoint pedestrian crossing",
+        "description": "Curved steel strips in pavement",
+        "type": "Sculpture",
+        "images": [
+            "hobart-rivulet-interpretations-1.jpg"
+        ],
+        "long": "147.326578768980482",
+        "lat": "-42.882968754379895",
+        "material": "Steel, Concrete"
+    },
+    {
+        "title": "Hobart Rivulet Interpretations",
+        "id": "hobart-rivulet-interpretations-2",
+        "artist": "Milan Milojevic, Lindsay Garity, Ian Chalmers",
+        "address": "Elizabeth Street Mall",
+        "type": "Sculpture",
+        "year": "1996",
+        "images": [
+            "hobart-rivulet-interpretations-2.jpg"
+        ],
+        "long": "147.327669924654657",
+        "lat": "-42.881489953741074",
+        "material": "Steel, Concrete"
+    },
+    {
+        "title": "Fish out of water",
+        "id": "fish-out-of-water",
+        "artist": "Patrick Wall",
+        "address": "Elizabeth Street Mall",
+        "description": "Aluminum fish drinking fountain",
+        "type": "Sculpture",
+        "year": "1996",
+        "images": [
+            "fish-out-of-water.jpg"
+        ],
+        "long": "147.328554446622974",
+        "lat": "-42.881978090565923",
+        "material": "Aluminium"
+    },
+    {
+        "title": "Thompson the Dog",
+        "id": "thompson-the-dog",
+        "artist": "Patrick Hall",
+        "address": "Elizabeth Street Mall",
+        "description": "Timber dog",
+        "type": "Sculpture",
+        "year": "1996",
+        "images": [
+            "thompson-the-dog.jpg"
+        ],
+        "long": "147.328408959748145",
+        "lat": "-42.881912565120459",
+        "material": "Timber"
+    },
+    {
+        "title": "Maurice the Pig",
+        "id": "maurice-the-pig",
+        "artist": "Patrick Hall",
+        "address": "Elizabeth Street Mall",
+        "description": "Moulded hebel block, painted white pig sculpture",
+        "type": "Sculpture",
+        "year": "1996",
+        "images": [
+            "maurice-the-pig.jpg"
+        ],
+        "long": "147.32848104617895",
+        "lat": "-42.881942325144479",
+        "material": "Hebel Block, Paint"
+    },
+    {
+        "title": "Street Signs - Wellington Walk",
+        "id": "street-signs-wellington-walk",
+        "artist": "Patrick Hall",
+        "address": "Elizabeth Street Mall",
+        "description": "Wellington Walk - Wellington Crt",
+        "type": "Sculpture",
+        "year": "1996",
+        "images": [
+            "street-signs-wellington-walk.jpg"
+        ],
+        "long": "147.327772151949091",
+        "lat": "-42.881522303411749",
+        "material": "Steel, Ceramic Tiles"
+    },
+    {
+        "title": "Street Signs - Purdys Mart",
+        "id": "street-signs-purdys-mart",
+        "artist": "Patrick Hall",
+        "address": "Collins Street",
+        "description": "Purdys Mart",
+        "type": "Sculpture",
+        "year": "1996",
+        "images": [
+            "street-signs-purdys-mart.jpg"
+        ],
+        "long": "147.329142350623982",
+        "lat": "-42.881776890267659",
+        "material": "Steel"
+    },
+    {
+        "title": "Street Signs - Kemp Street",
+        "id": "street-signs-kemp-street",
+        "artist": "Patrick Hall",
+        "address": "Collins Street",
+        "description": "Kemp Street",
+        "type": "Sculpture",
+        "year": "1996",
+        "images": [
+            "street-signs-kemp-street.jpg"
+        ],
+        "long": "147.329477271272737",
+        "lat": "-42.8815183267847",
+        "material": "Steel"
+    },
+    {
+        "title": "Street Signs",
+        "id": "street-signs",
+        "artist": "Patrick Hall",
+        "address": "Argyle Street",
+        "type": "Sculpture",
+        "year": "1996",
+        "images": [
+            "street-signs.jpg"
+        ],
+        "long": "147.329320099574801",
+        "lat": "-42.880886296759314",
+        "material": "Steel"
+    },
+    {
+        "title": "Street Signs - Bank Arcade",
+        "id": "street-signs-bank-arcade",
+        "artist": "Patrick Hall",
+        "address": " Liverpool Street",
+        "type": "Sculpture",
+        "year": "1996",
+        "images": [
+            "street-signs-bank-arcade.jpg"
+        ],
+        "long": "147.3276753763854",
+        "lat": "-42.880916359358856",
+        "material": "Steel"
+    },
+    {
+        "title": "Street Signs",
+        "id": "street-signs-1",
+        "artist": "Patrick Hall",
+        "address": "Elizabeth Street Mall",
+        "description": "Bank Arcade",
+        "type": "Public Art",
+        "year": "1996",
+        "images": [
+            "street-signs-1.jpg"
+        ],
+        "long": "147.32742302001418",
+        "lat": "-42.88136247464535",
+        "material": "Steel, Ceramic Tiles"
+    },
+    {
+        "title": "Street Signs - Soundys Lane",
+        "id": "street-signs-soundys-lane",
+        "artist": "Patrick Hall",
+        "address": "Elizabeth Street Mall",
+        "type": "Sculpture",
+        "year": "1996",
+        "images": [
+            "street-signs-soundys-lane.jpg"
+        ],
+        "long": "147.327946201296669",
+        "lat": "-42.881603038803021",
+        "material": "Steel"
+    },
+    {
+        "title": "Granite Stories",
+        "id": "granite-stories",
+        "artist": "Patrick Hall",
+        "address": "Elizabeth Street Mall",
+        "description": "Engravings to granite blocks in seating",
+        "type": "Sculpture",
+        "year": "1996",
+        "images": [
+            "granite-stories.jpg"
+        ],
+        "long": "147.328305565402246",
+        "lat": "-42.881852439923151",
+        "material": "Granite"
+    },
+    {
+        "title": "police box mural",
+        "id": "police-box-mural",
+        "artist": "Carol Rodwell",
+        "address": "Elizabeth Street Mall",
+        "description": "painted mural",
+        "type": "Sculpture",
+        "year": "1998",
+        "images": [
+            "police-box-mural.jpg"
+        ],
+        "long": "147.328371811942475",
+        "lat": "-42.881820084029016",
+        "material": "Paint"
+    },
+    {
+        "title": "Wind Shields",
+        "id": "wind-shields",
+        "artist": "Sharyn Woods",
+        "address": "Elizabeth Street Mall",
+        "description": "Curved, woven stainless steel screens",
+        "type": "Sculpture",
+        "year": "1996",
+        "images": [
+            "wind-shields.jpg"
+        ],
+        "long": "147.328732572450548",
+        "lat": "-42.882033487547083",
+        "material": "Stainless Steel"
+    },
+    {
+        "title": "Paving design",
+        "id": "paving-design-2",
+        "artist": "Paul Zika",
+        "address": "Wellington Court",
+        "description": "Symmetrical design in coloured bricks",
+        "type": "Sculpture",
+        "year": "1996",
+        "images": [
+            "paving-design-2.jpg"
+        ],
+        "long": "147.328317131298888",
+        "lat": "-42.881284144726237",
+        "material": "Brick Pavers"
+    },
+    {
+        "title": "Terrazo star",
+        "id": "terrazo-star",
+        "artist": "Hobart City Council",
+        "address": "Wellington Court",
+        "description": "Terrazo and Bronze strips in paving",
+        "type": "Sculpture",
+        "year": "1998",
+        "images": [
+            "terrazo-star.jpg"
+        ],
+        "long": "147.328365804794771",
+        "lat": "-42.881298300998672",
+        "material": "Tiles, Steel"
+    },
+    {
+        "title": "Jo & Edie",
+        "id": "jo-edie",
+        "artist": "Ken Betlehem",
+        "address": "Tasma Street",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "year": "2010",
+        "images": [
+            "jo-edie.jpg"
+        ],
+        "long": "147.319419214039158",
+        "lat": "-42.875110217039321",
+        "material": "Aluminium"
+    },
+    {
+        "title": "Fred",
+        "id": "fred",
+        "artist": "Ken Betlehem",
+        "address": "Tasma Street",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "year": "2010",
+        "images": [
+            "fred.jpg"
+        ],
+        "long": "147.319551819803365",
+        "lat": "-42.87506098797548",
+        "material": "Aluminium"
+    },
+    {
+        "title": "Bazza",
+        "id": "bazza",
+        "artist": "Ken Betlehem",
+        "address": "Elizabeth St, between Brisbane & Mellville St",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "year": "2010",
+        "images": [
+            "bazza.jpg"
+        ],
+        "long": "147.323833313720286",
+        "lat": "-42.879881285851816",
+        "material": "Aluminium"
+    },
+    {
+        "title": "Dazza",
+        "id": "dazza",
+        "artist": "Ken Betlehem",
+        "address": "Elizabeth St, between Brisbane & Mellville St",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "year": "2010",
+        "images": [
+            "dazza.jpg"
+        ],
+        "long": "147.323903463934812",
+        "lat": "-42.879913967451913",
+        "material": "Aluminium"
+    },
+    {
+        "title": "Gazza",
+        "id": "gazza",
+        "artist": "Ken Betlehem",
+        "address": "Elizabeth St, between Brisbane & Mellville St",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "year": "2010",
+        "images": [
+            "gazza.jpg"
+        ],
+        "long": "147.32397653716626",
+        "lat": "-42.879948071674818",
+        "material": "Aluminium"
+    },
+    {
+        "title": "Ez",
+        "id": "ez",
+        "artist": "Ken Betlehem",
+        "address": "Golburn & Molle Street",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "year": "2010",
+        "images": [
+            "ez.jpg"
+        ],
+        "long": "147.319938385165443",
+        "lat": "-42.886445224089677",
+        "material": "Aluminium"
+    },
+    {
+        "title": "Fred",
+        "id": "fred-1",
+        "artist": "Ken Betlehem",
+        "address": "Hunter St",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "year": "2010",
+        "images": [
+            "fred-1.jpg"
+        ],
+        "long": "147.334929704461985",
+        "lat": "-42.881219196756312",
+        "material": "Aluminium"
+    },
+    {
+        "title": "Fred",
+        "id": "fred-2",
+        "artist": "Ken Betlehem",
+        "address": "Salamanca Square",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "year": "2010",
+        "images": [
+            "fred-2.jpg"
+        ],
+        "long": "147.332227984515555",
+        "lat": "-42.88686006898552",
+        "material": "Aluminium"
+    },
+    {
+        "title": "Mac",
+        "id": "mac",
+        "artist": "Ken Betlehem",
+        "address": "Salamanca Square",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "year": "2010",
+        "images": [
+            "mac.jpg"
+        ],
+        "long": "147.332204102440443",
+        "lat": "-42.886927486807217",
+        "material": "Aluminium"
+    },
+    {
+        "title": "Charlie",
+        "id": "charlie",
+        "artist": "Ken Betlehem",
+        "address": "Salamanca Square",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "year": "2010",
+        "images": [
+            "charlie.jpg"
+        ],
+        "long": "147.33215874532408",
+        "lat": "-42.887008833225195",
+        "material": "Aluminium"
+    },
+    {
+        "title": "Jo & Edie",
+        "id": "jo-edie-1",
+        "artist": "Ken Betlehem",
+        "address": "Salamanca Square",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "year": "2010",
+        "images": [
+            "jo-edie-1.jpg"
+        ],
+        "long": "147.333160914876117",
+        "lat": "-42.887231183312785",
+        "material": "Aluminium"
+    },
+    {
+        "title": "Charlie Kik & Rose",
+        "id": "charlie-kik-rose",
+        "artist": "Ken Betlehem",
+        "address": "Salamanca Square",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "year": "2010",
+        "images": [
+            "charlie-kik-rose.jpg"
+        ],
+        "long": "147.333185539338388",
+        "lat": "-42.887231111653001",
+        "material": "Aluminium"
+    },
+    {
+        "title": "Ruby",
+        "id": "ruby",
+        "artist": "Ken Betlehem",
+        "address": "Salamanca Square",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "year": "2010",
+        "images": [
+            "ruby.jpg"
+        ],
+        "long": "147.333173676032089",
+        "lat": "-42.887242201931414",
+        "material": "Aluminium"
+    },
+    {
+        "title": "1883",
+        "id": "1883",
+        "artist": "Futago, Judith Abell, Chris Viney",
+        "address": "Salamanca Palce",
+        "description": "Steel cages with stone chips",
+        "type": "Battery Point Trail",
+        "year": "2010",
+        "images": [
+            "1883.jpg"
+        ],
+        "long": "147.33464517416914",
+        "lat": "-42.886639185799133",
+        "material": "Stone, Steel"
+    },
+    {
+        "title": "12.43",
+        "id": "12-43",
+        "artist": "Futago, Judith Abell, Chris Viney",
+        "address": "Castray Esplanade",
+        "type": "Battery Point Trail",
+        "year": "2010",
+        "images": [
+            "12-43.jpg"
+        ],
+        "long": "147.337550966096984",
+        "lat": "-42.886599124404825",
+        "material": "Concrete, Steel and Resin"
+    },
+    {
+        "title": "628 nm",
+        "id": "628-nm",
+        "artist": "Futago, Judith Abell, Chris Viney",
+        "address": "Castray Eplanade foreshore",
+        "type": "Battery Point Trail",
+        "year": "2010",
+        "images": [
+            "628-nm.jpg"
+        ],
+        "long": "147.339189039056777",
+        "lat": "-42.887432123209763",
+        "material": "Glass"
+    },
+    {
+        "title": "2000",
+        "id": "2000",
+        "artist": "Futago, Judith Abell, Chris Viney",
+        "address": "Finlay Street foreshore",
+        "description": "steel wrapped around concrete retaining wall",
+        "type": "Battery Point Trail",
+        "year": "2010",
+        "images": [
+            "2000.jpg"
+        ],
+        "long": "147.337949001213843",
+        "lat": "-42.88901121558775",
+        "material": "Steel, Concrete"
+    },
+    {
+        "title": "1923",
+        "id": "1923",
+        "artist": "Futago, Judith Abell, Chris Viney",
+        "address": "Clarke Avenue",
+        "description": "wire cage containing topiary plant",
+        "type": "Battery Point Trail",
+        "year": "2010",
+        "images": [
+            "1923.jpg"
+        ],
+        "long": "147.338538140644147",
+        "lat": "-42.890180799109487",
+        "material": "Wire Mesh, Plants"
+    },
+    {
+        "title": "313",
+        "id": "313",
+        "artist": "Futago, Judith Abell, Chris Viney",
+        "address": "Derwent Lane jetty",
+        "type": "Battery Point Trail",
+        "year": "2010",
+        "images": [
+            "313.jpg"
+        ],
+        "long": "147.337375539892463",
+        "lat": "-42.892318399748497"
+    },
+    {
+        "title": "1250",
+        "id": "1250",
+        "artist": "Futago, Judith Abell, Chris Viney",
+        "address": "Napoleon Street",
+        "type": "Battery Point Trail",
+        "year": "2010",
+        "images": [
+            "1250.jpg"
+        ],
+        "long": "147.33548245480921",
+        "lat": "-42.892275636962559"
+    },
+    {
+        "title": "24",
+        "id": "24",
+        "artist": "Futago, Judith Abell, Chris Viney",
+        "address": "Napoleon Street",
+        "description": "Resin",
+        "type": "Battery Point Trail",
+        "year": "2010",
+        "images": [
+            "24.jpg"
+        ],
+        "long": "147.334686225554492",
+        "lat": "-42.893312140920642"
+    },
+    {
+        "title": "1909",
+        "id": "1909",
+        "artist": "Futago, Judith Abell, Chris Viney",
+        "address": "Marieville esplanade foreshore",
+        "description": "painted steel sculpture",
+        "type": "Battery Point Trail",
+        "year": "2010",
+        "images": [
+            "1909.jpg"
+        ],
+        "long": "147.333587842183618",
+        "lat": "-42.89438818219709"
+    },
+    {
+        "title": "Beacon",
+        "id": "beacon",
+        "artist": "Ari Purhonen ",
+        "address": "Long Beach Sandy Bay",
+        "description": "stainless steel and celery top pine tower",
+        "type": "Art",
+        "year": "2013",
+        "images": [
+            "beacon.jpg",
+            "beacon-alt.jpg"
+        ],
+        "long": "147.357242402410151",
+        "lat": "-42.910217626826487",
+        "material": "Timber, Stainless Steel"
+    },
+    {
+        "title": "The yellow line",
+        "id": "the-yellow-line",
+        "artist": "Justy Phillips",
+        "address": "Salamanca Place",
+        "description": "Inground light box",
+        "type": "Urban Art",
+        "year": "2013",
+        "images": [
+            "the-yellow-line.jpg"
+        ],
+        "long": "147.330305190460052",
+        "lat": "-42.886061028844011",
+        "material": "Aluminium, Acrylic, LED lights"
+    },
+    {
+        "title": "The yellow line",
+        "id": "the-yellow-line-1",
+        "artist": "Justy Phillips",
+        "address": "Salamanca Place",
+        "description": "Inground light box",
+        "type": "Urban Art",
+        "year": "2013",
+        "images": [
+            "the-yellow-line-1.jpg"
+        ],
+        "long": "147.330040994904977",
+        "lat": "-42.885892375710895",
+        "material": "Aluminium, Acrylic, LED lights"
+    },
+    {
+        "title": "Beaumaris Zoo gate",
+        "id": "beaumaris-zoo-gate",
+        "artist": "Patrick Hall, Lynda Warner & Chirs Viney",
+        "address": "Carriage Drive, Queens Domain",
+        "type": "Public Art",
+        "year": "2002",
+        "images": [
+            "beaumaris-zoo-gate.jpg"
+        ],
+        "long": "147.333000778230996",
+        "lat": "-42.870591572936682",
+        "material": "Steel, Tiles, Images"
+    },
+    {
+        "title": "Antipodean Voyage",
+        "id": "antipodean-voyage",
+        "artist": "Stephen Walker",
+        "address": "Royal Tasmania Botanical Gardens",
+        "description": "Huion pine fountain sculpture",
+        "type": "Sculpture",
+        "year": "1972",
+        "long": "147.333479996488052",
+        "lat": "-42.865117020037246",
+        "material": "Houn Pine, Steel"
+    },
+    {
+        "title": "Long Beach bathing pavillion",
+        "id": "long-beach-bathing-pavillion",
+        "artist": "Ronald Sinclair",
+        "address": "Bathing Pavillion, Long Beach Sandy Bay",
+        "description": "Bas-relief",
+        "type": "Public Art",
+        "year": "1962",
+        "images": [
+            "long-beach-bathing-pavillion.jpg"
+        ],
+        "long": "147.357278279413947",
+        "lat": "-42.913817008863781",
+        "material": "Concrete"
+    },
+    {
+        "title": "Tree Sculpture",
+        "id": "tree-sculpture-1",
+        "artist": "Audrey Hutchinson",
+        "address": "McRobies Gully Recycling centre",
+        "description": "Sculpture",
+        "type": "Sculpture",
+        "year": "1986",
+        "images": [
+            "tree-sculpture-1.jpg"
+        ],
+        "long": "147.290781591017634",
+        "lat": "-42.890647770841873"
+    },
+    {
+        "title": "Recycled Gate",
+        "id": "recycled-gate",
+        "artist": "Aquila Night",
+        "address": "McRobies Gully Recycling centre",
+        "description": "Sculpture",
+        "type": "Sculpture",
+        "year": "1985",
+        "images": [
+            "recycled-gate.jpg"
+        ],
+        "long": "147.290747507836642",
+        "lat": "-42.890663446399131",
+        "material": "Steel"
+    },
+    {
+        "title": "Pipe sculpture",
+        "id": "pipe-sculpture",
+        "artist": "Robert Morris-Nunn",
+        "address": "Waterworks reserve",
+        "type": "Sculpture",
+        "year": "1993",
+        "images": [
+            "pipe-sculpture.jpg"
+        ],
+        "long": "147.292681125952612",
+        "lat": "-42.907699163246342"
+    },
+    {
+        "title": "Play equipment",
+        "id": "play-equipment",
+        "artist": "Tom Samek, Bevan Reeves",
+        "address": "Wellington Court",
+        "description": "Wooden play equipment and sculpted shapes",
+        "type": "Public Art",
+        "year": "1997",
+        "images": [
+            "play-equipment.jpg"
+        ],
+        "long": "147.328519546096942",
+        "lat": "-42.881340562929637",
+        "material": "Timber, Paint"
+    },
+    {
+        "title": "Youth Arts Project, Bidencopes Lane",
+        "id": "youth-arts-project-bidencopes-lane",
+        "artist": "Julie Stoneman, Richard Bladel",
+        "address": "Bidencopes Lane",
+        "type": "Public Art",
+        "year": "1998",
+        "images": [
+            "youth-arts-project-bidencopes-lane.jpg"
+        ],
+        "long": "147.32445184063991",
+        "lat": "-42.882247838101492",
+        "material": "Aluminium"
+    },
+    {
+        "title": "Art pavers",
+        "id": "art-pavers-1",
+        "artist": "Unknown",
+        "address": "Collins Street",
+        "description": "Art pavers",
+        "type": "Public Art",
+        "year": "1998",
+        "images": [
+            "art-pavers-1.jpg"
+        ],
+        "long": "147.332783928517728",
+        "lat": "-42.879190421770048",
+        "material": "Pavers"
+    },
+    {
+        "title": "The More Things Change \u2026",
+        "id": "the-more-things-change",
+        "artist": "Julie Hawkins",
+        "address": "Victoria Walk",
+        "description": "Metal interpretive signs",
+        "type": "Public Art",
+        "year": "2002",
+        "images": [
+            "the-more-things-change.jpg"
+        ],
+        "long": "147.325411802811857",
+        "lat": "-42.883943073332119",
+        "material": "Metal"
+    },
+    {
+        "title": "The More Things Change \u2026",
+        "id": "the-more-things-change-1",
+        "artist": "Julie Hawkins",
+        "address": "Victoria Walk",
+        "description": "Metal interpretive signs",
+        "type": "Public Art",
+        "year": "2002",
+        "images": [
+            "the-more-things-change-1.jpg"
+        ],
+        "long": "147.325441105700719",
+        "lat": "-42.883970152615554",
+        "material": "Metal"
+    },
+    {
+        "title": "Welcome to Victoria Walk",
+        "id": "welcome-to-victoria-walk",
+        "artist": "Julie Hawkins",
+        "address": "Victoria walk",
+        "description": "Interpretive sign",
+        "type": "Public Art",
+        "year": "2002",
+        "images": [
+            "welcome-to-victoria-walk.jpg"
+        ],
+        "long": "147.325601232779036",
+        "lat": "-42.884106937539492",
+        "material": "Aluminium"
+    },
+    {
+        "title": "Endeavour plaque",
+        "id": "endeavour-plaque",
+        "artist": "Vlase Nikoleski",
+        "address": "Hobart Town Hall, Maquarie st",
+        "description": "Bronze representation of Cook's ship, Endeavour",
+        "type": "Sculpture",
+        "year": "1970",
+        "images": [
+            "endeavour-plaque.jpg"
+        ],
+        "long": "147.330817118413194",
+        "lat": "-42.882510898495212",
+        "material": "Bronze"
+    },
+    {
+        "title": "Edward VII Peacemaker",
+        "id": "edward-vii-peacemaker",
+        "artist": "Leonard Jennings",
+        "address": "Franklin Square",
+        "description": "Statue of a Edward VII",
+        "type": "Public Art",
+        "year": "1921",
+        "images": [
+            "edward-vii-peacemaker.jpg"
+        ],
+        "long": "147.329971380779853",
+        "lat": "-42.88313046358676",
+        "material": "Bronze"
+    },
+    {
+        "title": "Dr William Lodewyk Crowther",
+        "id": "dr-william-lodewyk-crowther",
+        "artist": "M Racci",
+        "address": "Franklin Square",
+        "description": "Bronze statue of William Crowther",
+        "type": "Public Art",
+        "year": "1889",
+        "images": [
+            "dr-william-lodewyk-crowther.jpg"
+        ],
+        "long": "147.330388084934128",
+        "lat": "-42.883605988783366",
+        "material": "Bronze"
+    },
+    {
+        "title": "John Franklin fountain",
+        "id": "john-franklin-fountain",
+        "artist": "Unknown",
+        "address": "Franklin Square",
+        "description": "Bronze statue and fountain",
+        "type": "Public Art",
+        "year": "1864",
+        "images": [
+            "john-franklin-fountain.jpg",
+            "john-franklin-fountain-alt.jpg"
+        ],
+        "long": "147.330235468914651",
+        "lat": "-42.883352174489247",
+        "material": "Bronze"
+    },
+    {
+        "title": "Hobart Cenotaph",
+        "id": "hobart-cenotaph",
+        "artist": "Bernard Walker, Elizabeth Conlon",
+        "address": "Regatta Grounds",
+        "description": "Granite obelisk, bluestone base",
+        "type": "Memorial",
+        "year": "1925",
+        "images": [
+            "hobart-cenotaph.jpg"
+        ],
+        "long": "147.336547465935269",
+        "lat": "-42.877820186686762",
+        "material": "Stone, Bronze"
+    },
+    {
+        "title": "Boer War memorial",
+        "id": "boer-war-memorial",
+        "artist": "Benjamin Sheppard",
+        "address": "Queens Domain",
+        "description": "Bronze statue of Boer War soldier",
+        "type": "Memorial",
+        "year": "1905",
+        "images": [
+            "boer-war-memorial.jpg"
+        ],
+        "long": "147.333500552037123",
+        "lat": "-42.876133179076845",
+        "material": "Bronze, Stone"
+    },
+    {
+        "title": "Monument to the Canadian convicts",
+        "id": "monument-to-the-canadian-convicts",
+        "artist": "Lorraine and Bob Jennings",
+        "address": "Princes Park",
+        "type": "Memorial",
+        "year": "1995",
+        "images": [
+            "monument-to-the-canadian-convicts.jpg"
+        ],
+        "long": "147.337636187551965",
+        "lat": "-42.887761428373544",
+        "material": "Stone, Glass"
+    },
+    {
+        "title": "Gate",
+        "id": "gate",
+        "artist": "Bruce Pringle",
+        "address": "North Hobart Cultural Park",
+        "description": "Curly wrought iron gate",
+        "type": "Public Art",
+        "year": "1990",
+        "images": [
+            "gate.jpg"
+        ],
+        "long": "147.316471267924868",
+        "lat": "-42.876944471763416",
+        "material": "Wrought Iron"
+    },
+    {
+        "title": "Migration Wall",
+        "id": "migration-wall",
+        "artist": "Linda Warner, Juile Stoneman, Chris Viney",
+        "address": "North Hobart Memorial Park",
+        "description": "Mural",
+        "type": "Public Art",
+        "year": "2001",
+        "images": [
+            "migration-wall.jpg"
+        ],
+        "long": "147.316939056120901",
+        "lat": "-42.877088956053846",
+        "material": "Paint"
+    },
+    {
+        "title": "Poem Monument",
+        "id": "poem-monument",
+        "artist": "Unknown",
+        "address": "Stoke Street Reserve",
+        "description": "Granite block with the text",
+        "type": "Memorial",
+        "year": "1993",
+        "images": [
+            "poem-monument.jpg"
+        ],
+        "long": "147.310992447401901",
+        "lat": "-42.86428880694362",
+        "material": "Stone"
+    },
+    {
+        "title": "Penny-farthing sculpture",
+        "id": "penny-farthing-sculpture",
+        "artist": "Greg Duncan",
+        "address": "Girrabong Rd and Lennah Valley Road.",
+        "description": "Red-painted welded iron sculpture",
+        "type": "Urban Art",
+        "year": "1997",
+        "images": [
+            "penny-farthing-sculpture.jpg"
+        ],
+        "long": "147.282181888357172",
+        "lat": "-42.863389005861698",
+        "material": "Steel"
+    },
+    {
+        "title": "Totem Pole",
+        "id": "totem-pole",
+        "artist": "Julie Stoneman",
+        "address": "Risely Court Playground, Lenah Valley",
+        "description": "Totem Pole",
+        "type": "Sculpture",
+        "images": [
+            "totem-pole.jpg"
+        ],
+        "long": "147.276164561453271",
+        "lat": "-42.857746247653267",
+        "material": "Timber, Paint"
+    },
+    {
+        "title": "Totem Pole",
+        "id": "totem-pole-1",
+        "artist": "Julie Stoneman",
+        "address": "Kalang avenue Playground.",
+        "description": "Celery top pine totem pole",
+        "type": "Sculpture",
+        "images": [
+            "totem-pole-1.jpg"
+        ],
+        "long": "147.282594383674507",
+        "lat": "-42.860112900261072",
+        "material": "Timber, Paint"
+    },
+    {
+        "title": "BBQ pit mural",
+        "id": "bbq-pit-mural",
+        "artist": "Juile Stoneman, various",
+        "address": "Train Park West Hobart",
+        "description": "Mural",
+        "type": "Public Art",
+        "year": "1995",
+        "images": [
+            "bbq-pit-mural.jpg"
+        ],
+        "long": "147.313154733042808",
+        "lat": "-42.882095289999356",
+        "material": "Concrete, Steel, Tiles"
+    },
+    {
+        "title": "Interpretive Sculpture",
+        "id": "interpretive-sculpture",
+        "artist": "Julie Stoneman",
+        "address": "Hobart Rivulet linear park near McFarlane Street",
+        "description": "Steel girders with informative plates",
+        "type": "Sculpture",
+        "year": "2003",
+        "images": [
+            "interpretive-sculpture.jpg"
+        ],
+        "long": "147.30436321684067",
+        "lat": "-42.89437273400511",
+        "material": "Steel"
+    },
+    {
+        "title": "Mural",
+        "id": "mural",
+        "artist": "Unknown",
+        "address": "Anglesea Street",
+        "description": "Painted Mural",
+        "type": "Public Art",
+        "year": "1982",
+        "images": [
+            "mural.jpg"
+        ],
+        "long": "147.309560440381546",
+        "lat": "-42.895396781750144",
+        "material": "Paint"
+    },
+    {
+        "title": "Dazza",
+        "id": "dazza-1",
+        "artist": "Ken Betlehelm",
+        "address": "TMAG, 40 Macquarie Street",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "year": "2010",
+        "images": [
+            "dazza-1.jpg"
+        ],
+        "long": "147.331780185253137",
+        "lat": "-42.881728845536401",
+        "material": "Aluminium"
+    },
+    {
+        "title": "Queen Elizabeth 50th Anniversary",
+        "id": "queen-elizabeth-50th-anniversary",
+        "address": "Hunter Street",
+        "description": "Memorial",
+        "type": "Memorial",
+        "year": "1954",
+        "images": [
+            "queen-elizabeth-50th-anniversary.jpg"
+        ],
+        "long": "147.335541112203316",
+        "lat": "-42.881742066819385",
+        "material": "Granite, Bronze"
+    },
+    {
+        "title": "People and their imprints",
+        "id": "people-and-their-imprints",
+        "artist": "Sue Small, Wendy Edwards and Simon Pankhurst ",
+        "address": "New Town Rivulet Linear Park ",
+        "type": "Flora, Fauna and Foray",
+        "year": "2014",
+        "images": [
+            "people-and-their-imprints.jpg"
+        ],
+        "long": "147.280690404824412",
+        "lat": "-42.864907752877343",
+        "material": "Steel, Ceramic Tiles, concrete"
+    },
+    {
+        "title": "Threatened fauna",
+        "id": "threatened-fauna",
+        "artist": "Sue Small, Wendy Edwards and Simon Pankhurst ",
+        "address": "New Town Rivulet Linear Park ",
+        "type": "Flora, Fauna and Foray",
+        "year": "2014",
+        "images": [
+            "threatened-fauna.jpg"
+        ],
+        "long": "147.277737831253091",
+        "lat": "-42.865219932833902",
+        "material": "Steel, Ceramic Tiles, concrete"
+    },
+    {
+        "title": "Flora",
+        "id": "flora",
+        "artist": "Sue Small, Wendy Edwards and Simon Pankhurst ",
+        "address": "New Town Rivulet Linear Park ",
+        "description": "Local plant species",
+        "type": "Flora, Fauna and Foray",
+        "year": "2014",
+        "images": [
+            "flora.jpg",
+            "flora-alt.jpg"
+        ],
+        "long": "147.275744355226891",
+        "lat": "-42.865615507149059",
+        "material": "Steel, Ceramic Tiles, concrete"
+    },
+    {
+        "title": "Fauna",
+        "id": "fauna",
+        "artist": "Sue Small, Wendy Edwards and Simon Pankhurst ",
+        "address": "New Town Rivulet Linear Park ",
+        "description": "Rivulet life",
+        "type": "Flora, Fauna and Foray",
+        "year": "2014",
+        "images": [
+            "fauna.jpg"
+        ],
+        "long": "147.270152459959149",
+        "lat": "-42.866801103842775",
+        "material": "Steel, Ceramic Tiles, concrete"
+    },
+    {
+        "title": "Geology",
+        "id": "geology",
+        "artist": "Sue Small, Wendy Edwards and Simon Pankhurst ",
+        "address": "New Town Rivulet Linear Park ",
+        "type": "Flora, Fauna and Foray",
+        "year": "2014",
+        "images": [
+            "geology.jpg"
+        ],
+        "long": "147.268406045106275",
+        "lat": "-42.86742470153721",
+        "material": "Steel, Ceramic Tiles, concrete"
+    },
+    {
+        "title": "River fauna ",
+        "id": "river-fauna",
+        "artist": "Sue Small, Wendy Edwards and Simon Pankhurst ",
+        "address": "New Town Rivulet Linear Park ",
+        "type": "Flora, Fauna and Foray",
+        "year": "2014",
+        "images": [
+            "river-fauna.jpg"
+        ],
+        "long": "147.265335887331844",
+        "lat": "-42.870576961539975",
+        "material": "Steel, Ceramic Tiles, concrete"
+    },
+    {
+        "title": "Vegetation",
+        "id": "vegetation",
+        "artist": "Sue Small, Wendy Edwards and Simon Pankhurst ",
+        "address": "New Town Rivulet Linear Park ",
+        "type": "Flora, Fauna and Foray",
+        "year": "2014",
+        "images": [
+            "vegetation.jpg"
+        ],
+        "long": "147.257059728118321",
+        "lat": "-42.874541515916391",
+        "material": "Steel, Ceramic Tiles, concrete"
+    },
+    {
+        "title": "Tardiba and Benji",
+        "id": "tardiba-and-benji",
+        "artist": "Ben Clifford",
+        "address": "Sandy Bay Road & St Georges Terrace, Battery Point",
+        "description": "Two portraits featuring a Tasmanian Devil and Thylacine. Both representing Tasmanian icons.",
+        "type": "Signal Box Art",
+        "year": "2017",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3776",
+        "images": [
+            "tardiba-and-benji.jpg",
+            "tardiba-and-benji-alt.jpg"
+        ],
+        "long": "147.328822970273649",
+        "lat": "-42.890973098522736",
+        "material": "Paint"
+    },
+    {
+        "title": "Bonorong",
+        "id": "bonorong",
+        "artist": "Matthew Sloane",
+        "address": "Macquarie Street & Evans Street, Hobart",
+        "description": "Sunset silhouettes highlighting the need to slow down at dawn and dusk to save local wildlife and who to call if injured animals are found.",
+        "type": "Signal Box Art",
+        "year": "2017",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3778",
+        "images": [
+            "bonorong.jpg",
+            "bonorong-alt.jpg"
+        ],
+        "long": "147.333896827140819",
+        "lat": "-42.880009681418819",
+        "material": "Paint"
+    },
+    {
+        "title": "beAware of microplastics",
+        "id": "beaware-of-microplastics",
+        "artist": "Laura Kennedy",
+        "address": "Macquarie Street & Barrack Street, Hobart",
+        "description": "The design of my box is inspired by art nouveau wallpaper, in particular the fish shape is based on the work of Koloman Moser. I have taken his gorgeous continuous pattern and manipulated it to conceptually express the impact of microplastics on our ocean life.",
+        "type": "Signal Box Art",
+        "year": "2017",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3783",
+        "images": [
+            "beaware-of-microplastics.jpg",
+            "beaware-of-microplastics-alt.jpg"
+        ],
+        "long": "147.324569616267013",
+        "lat": "-42.887209190968754",
+        "material": "Paint"
+    },
+    {
+        "title": "Dance with the Devil on Argyle",
+        "id": "dance-with-the-devil-on-argyle",
+        "artist": "Karen Lyttle",
+        "address": "Argyle Street & Burnett Street, North Hobart",
+        "description": "Incorporating a Tasmanian icon with the Scottish heritage that reflects Argyle & Burnett Streets.",
+        "type": "Signal Box Art",
+        "year": "2017",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3784",
+        "images": [
+            "dance-with-the-devil-on-argyle.jpg",
+            "dance-with-the-devil-on-argyle-alt.jpg"
+        ],
+        "long": "147.319451193062804",
+        "lat": "-42.873511278446358",
+        "material": "Paint"
+    },
+    {
+        "title": "Close Knit",
+        "id": "close-knit",
+        "artist": "Shona Gates",
+        "address": "Regent Street & Princess Street, Sandy Bay",
+        "description": "This pop up forest joins the parade of trees along Regent, and other Sandy Bay streets, providing a thread of connection to the Eucalypt forest within which the nearby University campus dwells.  These decorated and yarn bombed versions, are designed to cause a little intrigue for commuters, and perhaps some reflection on nature in the urban environment.",
+        "type": "Signal Box Art",
+        "year": "2017",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3787",
+        "images": [
+            "close-knit.jpg",
+            "close-knit-alt.jpg"
+        ],
+        "long": "147.323886667345533",
+        "lat": "-42.897459493772686",
+        "material": "Paint"
+    },
+    {
+        "title": "Pack Mentality",
+        "id": "pack-mentality",
+        "artist": "Camilla Yencken",
+        "address": "Argyle Street, Pedestrian Crossing Near George Street, North Hobart",
+        "description": "A herd of masks. Softened wool and sharpened teeth. The wolf amongst the sheep.",
+        "type": "Signal Box Art",
+        "year": "2017",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3788",
+        "images": [
+            "pack-mentality.jpg",
+            "pack-mentality-alt.jpg"
+        ],
+        "long": "147.317827109745195",
+        "lat": "-42.871984631333994",
+        "material": "Paint"
+    },
+    {
+        "title": "Secrets of Sandy Bay",
+        "id": "secrets-of-sandy-bay",
+        "artist": "Cathy McAuliffe",
+        "address": "Sandy Bay Road & King Street, Sandy Bay",
+        "description": "The Tale\nGovernor King hinted at the closure of Norfolk Island, softening to requesting volunteers to settle VDL, but only 5 family's did so, King responded, sending 500 people between 1807-1808.\nVirgin soil, low stores, and poor tools awaited them, their descendants would be the beneficiaries of their toil. The settlers legacy can be traced by the seeds they brought with them, notably the Hawthorne Hedges and towering Norfolk Island Pines.\n\nThe Sentiment\n\"We have grown weary of the Governor, shoving us about the South Pacific, forcing our lot upon us, tearing us from the home we forged. Now, with aging bodies, meagre strength and diminished enthusiasm, we now work unfavourable ground. We suffered financial loss,and demand compensation. O must we start over again.",
+        "type": "Signal Box Art",
+        "year": "2017",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3838",
+        "images": [
+            "secrets-of-sandy-bay.jpg",
+            "secrets-of-sandy-bay-alt.jpg"
+        ],
+        "long": "147.326679129505862",
+        "lat": "-42.894618880987359",
+        "material": "Paint"
+    },
+    {
+        "title": "Untitled",
+        "id": "untitled",
+        "artist": "Paul Eggins",
+        "address": "Sandy Bay Road & Russell Crescent, Sandy Bay",
+        "description": "A visual abstraction of the topographical road map of the Sandy Bay area located directly around the traffic control box.",
+        "type": "Signal Box Art",
+        "year": "2017",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3846",
+        "images": [
+            "untitled.jpg",
+            "untitled-alt.jpg"
+        ],
+        "long": "147.328072862567353",
+        "lat": "-42.895918489429903",
+        "material": "Paint"
+    },
+    {
+        "title": "The Seasons of Van Diemen's",
+        "id": "the-seasons-of-van-diemens",
+        "artist": "Cathy McAuliffe",
+        "address": "Elizabeth Street & Davey Street, Hobart",
+        "description": "Hobart's weather is very changeable. Tourists get a real sense of this when they walk out of the Travel Centre and into the headwind of a southerly icy gale. This is a lighthearted look at the seasons, with a high likelihood of experiencing all in one day.",
+        "type": "Signal Box Art",
+        "year": "2018",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3917",
+        "images": [
+            "the-seasons-of-van-diemens.jpg",
+            "the-seasons-of-van-diemens-alt.jpg"
+        ],
+        "long": "147.33159193450075",
+        "lat": "-42.883213000185435",
+        "material": "Paint"
+    },
+    {
+        "title": "Even This Shall Pass",
+        "id": "even-this-shall-pass",
+        "artist": "Pema Choo",
+        "address": "Macquarie Street & Harrington Street, Hobart",
+        "description": "The human form and the native Tasmanian species of fagus exploring changes and seasons through colour.",
+        "type": "Signal Box Art",
+        "year": "2018",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3945",
+        "images": [
+            "even-this-shall-pass.jpg",
+            "even-this-shall-pass-alt.jpg"
+        ],
+        "long": "147.326702856064571",
+        "lat": "-42.88562995694982",
+        "material": "Paint"
+    },
+    {
+        "title": "A Walk of Nature",
+        "id": "a-walk-of-nature",
+        "artist": "Wenhao Deng",
+        "address": "Barrack Street & Goulburn Street, Hobart",
+        "description": "Our fascinating bushwalking and wildlife spotting experience in Tasmania makes it natural to visualise our impression towards this beautiful state, where people, domesticated animal and wildlife can live together in harmony.",
+        "type": "Signal Box Art",
+        "year": "2018",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3965",
+        "images": [
+            "a-walk-of-nature.jpg",
+            "a-walk-of-nature-alt.jpg"
+        ],
+        "long": "147.321404159607511",
+        "lat": "-42.885023926559555",
+        "material": "Paint"
+    },
+    {
+        "title": "Safe With Us Now",
+        "id": "safe-with-us-now",
+        "artist": "Rory Lefroy",
+        "address": "Davey Street & Murray Street, Hobart",
+        "description": "Features 10 Murray St, a building earmarked for demolition - a fantasy where the building is rescued by Tasmanian Tigers and relocated.",
+        "type": "Signal Box Art",
+        "year": "2011",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2252",
+        "images": [
+            "safe-with-us-now.jpg",
+            "safe-with-us-now-alt.jpg"
+        ],
+        "long": "147.329563856385079",
+        "lat": "-42.884362959411746",
+        "material": "Paint"
+    },
+    {
+        "title": "Aspired",
+        "id": "aspired",
+        "artist": "Aspire Foundation",
+        "address": "Elizabeth Street & Melville Street, Hobart",
+        "description": "The artwork is a subconscious reflection on the mingling of natural and man-made environments.  Lines and colour create spontaneous harmonies.",
+        "type": "Signal Box Art",
+        "year": "2011",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2254",
+        "images": [
+            "aspired.jpg",
+            "aspired-alt.jpg"
+        ],
+        "long": "147.324491763226433",
+        "lat": "-42.880252182057944",
+        "material": "Paint"
+    },
+    {
+        "title": "From darkness we all can find the light",
+        "id": "from-darkness-we-all-can-find-the-light",
+        "artist": "Create Foundation",
+        "address": "Macquarie Street & Elizabeth Street, Hobart",
+        "description": "This design portrays a young person feeling alone, scared and wrought with feelings of self harm and abandonment.  As a result of loving and supportive carers, the young person is able to move towards a brighter, happier future.\n\u201cOur artwork is trying to show how you can get from the dark side of life to the other by simply taking a chance. If you take that chance and step out of the darkness you'll find your life is more beautiful!\u201d  Bek, 22 years old.",
+        "type": "Signal Box Art",
+        "year": "2011",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2258",
+        "images": [
+            "from-darkness-we-all-can-find-the-light.jpg",
+            "from-darkness-we-all-can-find-the-light-alt.jpg"
+        ],
+        "long": "147.329978790282269",
+        "lat": "-42.882826889186482",
+        "material": "Paint"
+    },
+    {
+        "title": "Such is Life",
+        "id": "such-is-life",
+        "artist": "Headway ",
+        "address": "Liverpool Street & Murray Street, Hobart",
+        "description": "Designs from workshops conducted at Headway. An organisation involving people with brain injuries. They decided that they wanted their injuries to be the subject of the art work. These images were designed by headway participants.",
+        "type": "Signal Box Art",
+        "year": "2011",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2259",
+        "images": [
+            "such-is-life.jpg",
+            "such-is-life-alt.jpg"
+        ],
+        "long": "147.325516203029764",
+        "lat": "-42.882570463469555",
+        "material": "Paint"
+    },
+    {
+        "title": "At What Cost?",
+        "id": "at-what-cost",
+        "artist": "Department of Justice, Risdon Prison",
+        "address": "Elizabeth Street & Liverpool Street, Hobart",
+        "description": "The Risdon Prison Project emphasised the beauty and value of Nature. In keeping with this environmental theme the design hilights iconic Tassie features such as Cradle Mountain and Wineglass Bay. The illusive Tasmanian Tiger is glimpsed and tracks are found growing in vines. The curves in this design mirror the architecture in the public space across the road and the design maintains a sense of fun and vibrancy.",
+        "type": "Signal Box Art",
+        "year": "2011",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2260",
+        "images": [
+            "at-what-cost.jpg",
+            "at-what-cost-alt.jpg"
+        ],
+        "long": "147.326933096238605",
+        "lat": "-42.881266758298707",
+        "material": "Paint"
+    },
+    {
+        "title": "Moving On",
+        "id": "moving-on",
+        "artist": "Oak Tasmania",
+        "address": "Morrison Street & Murray Street, Hobart",
+        "type": "Signal Box Art",
+        "year": "2011",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2261",
+        "images": [
+            "moving-on.jpg",
+            "moving-on-alt.jpg"
+        ],
+        "long": "147.331161750256456",
+        "lat": "-42.885188148330684",
+        "material": "Paint"
+    },
+    {
+        "title": "Holiday Time",
+        "id": "holiday-time",
+        "artist": "Oakdale Services Tasmania",
+        "address": "Argyle Street & Collins Street, Hobart",
+        "description": "Oakdale Services clients Joy, Gary, Mary, Peter, Janine, Julie and Sandra had fun imagining where they would go or what they might do on vacation.",
+        "type": "Signal Box Art",
+        "year": "2011",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2262",
+        "images": [
+            "holiday-time.jpg",
+            "holiday-time-alt.jpg"
+        ],
+        "long": "147.329959680707361",
+        "lat": "-42.881064975767138",
+        "material": "Paint"
+    },
+    {
+        "title": "Tascare Society for Children",
+        "id": "tascare-society-for-children",
+        "artist": "Tascare Society for Children",
+        "address": "Murray Street & Collins Street, Hobart",
+        "description": "There is a community for everyone.",
+        "type": "Signal Box Art",
+        "year": "2011",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2266",
+        "images": [
+            "tascare-society-for-children.jpg",
+            "tascare-society-for-children-alt.jpg"
+        ],
+        "long": "147.327438706451346",
+        "lat": "-42.883318522893646",
+        "material": "Paint"
+    },
+    {
+        "title": "MADE",
+        "id": "made",
+        "artist": "MADE (Mature Age Dance Experience)",
+        "address": "Macquarie Street & Argyle Street, Hobart",
+        "description": "Ornate wallpaper",
+        "type": "Signal Box Art",
+        "year": "2011",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2267",
+        "images": [
+            "made.jpg",
+            "made-alt.jpg"
+        ],
+        "long": "147.331368074574385",
+        "lat": "-42.882042642441348",
+        "material": "Paint"
+    },
+    {
+        "title": "Island & Ocean",
+        "id": "island-ocean",
+        "artist": "Palawa Aboriginal Corporation",
+        "address": "Elizabeth Street & Pedestrian Crossing, North Hobart",
+        "description": "This is a depiction of our island culture and the intertwining of the ocean's resources as used by the Tasmanian Aboriginal community.  It also includes traditional symbols of importance to our community.",
+        "type": "Signal Box Art",
+        "year": "2012",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2321",
+        "images": [
+            "island-ocean.jpg",
+            "island-ocean-alt.jpg"
+        ],
+        "long": "147.315882520212114",
+        "lat": "-42.873626430080627",
+        "material": "Paint"
+    },
+    {
+        "title": "Totem Sun-Whale Eye",
+        "id": "totem-sun-whale-eye",
+        "artist": "Geordie Duncan",
+        "address": "Elizabeth Street & Federal Street, North Hobart",
+        "description": "It refers to Hobart\u2019s history as a whaling port.",
+        "type": "Signal Box Art",
+        "year": "2011",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2328",
+        "images": [
+            "totem-sun-whale-eye.jpg",
+            "totem-sun-whale-eye-alt.jpg"
+        ],
+        "long": "147.314549726258065",
+        "lat": "-42.871978022114995",
+        "material": "Paint"
+    },
+    {
+        "title": "Community Friends",
+        "id": "community-friends",
+        "artist": "Community Friends & Networks Program",
+        "address": "Murray Street, Pedestrian Crossing, Hobart",
+        "description": "A collaboration between international university students and primary school children and their interpretation of community.",
+        "type": "Signal Box Art",
+        "year": "2011",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2469",
+        "images": [
+            "community-friends.jpg",
+            "community-friends-alt.jpg"
+        ],
+        "long": "147.326752619849344",
+        "lat": "-42.883207475981081",
+        "material": "Paint"
+    },
+    {
+        "title": "Summer Fun in Hobart",
+        "id": "summer-fun-in-hobart",
+        "artist": "Hilliard Christian School",
+        "address": "Elizabeth Street & Morrison Street, Hobart",
+        "description": "The students that designed this box wanted to show Tassie as 'the end of the rainbow', a treasure box full of surprises. They wanted to show all the great things that the Waterfront is known for (eg) yummy food, great times, the Sydney Hobart Yacht Race (they even researched the winner of the very first race). Of course they wanted to show the never ending struggle between seagulls and their love of hot chippies. They also wanted to acknowledge that the Signal Box is at the beginning of Elizabeth Street - and also to showcase the ever beautiful River Derwent.",
+        "type": "Signal Box Art",
+        "year": "2011",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2519",
+        "images": [
+            "summer-fun-in-hobart.jpg",
+            "summer-fun-in-hobart-alt.jpg"
+        ],
+        "long": "147.332197616973048",
+        "lat": "-42.883458900817104",
+        "material": "Paint"
+    },
+    {
+        "title": "No Trees No City",
+        "id": "no-trees-no-city",
+        "artist": "Migrant Resource Centre Southern Tasmania",
+        "address": "Davey Street & Harrington Street, Hobart",
+        "description": "If there are no trees we have nothing.",
+        "type": "Signal Box Art",
+        "year": "2011",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2536",
+        "images": [
+            "no-trees-no-city.jpg",
+            "no-trees-no-city-alt.jpg"
+        ],
+        "long": "147.327447863639321",
+        "lat": "-42.886368601238871",
+        "material": "Paint"
+    },
+    {
+        "title": "The Many Layers of Bathurst Street",
+        "id": "the-many-layers-of-bathurst-street",
+        "artist": "Lee Menzie",
+        "address": "Elizabeth Street & Bathurst Street, Hobart",
+        "description": "My Children wanted to show all the great things you could see from the Signal Box...there are shops, a library, a post office, a theatre, yummy food shops and lots of smiles from the locals, never forgetting the ever present traffic lights, sending us in lots of interesting and great directions...we love our city and we loved designing and showcasing the many layers of Bathurst Street.",
+        "type": "Signal Box Art",
+        "year": "2011",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2557",
+        "images": [
+            "the-many-layers-of-bathurst-street.jpg",
+            "the-many-layers-of-bathurst-street-alt.jpg"
+        ],
+        "long": "147.325835038753041",
+        "lat": "-42.880821350636467",
+        "material": "Paint"
+    },
+    {
+        "title": "Forever Young",
+        "id": "forever-young",
+        "artist": "Krista Rosewarne",
+        "address": "Argyle Street, Near Royal Hobart Hospital, Hobart",
+        "description": "Silhouttes of children from Hobart, all of whom have had some involvement with the hospital opposite.Now forever young, with symbols of Hobart painted within their frames; of river, mountain, earth and sun.",
+        "type": "Signal Box Art",
+        "year": "2011",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2577",
+        "images": [
+            "forever-young.jpg",
+            "forever-young-alt.jpg"
+        ],
+        "long": "147.329372391960618",
+        "lat": "-42.880929334695338",
+        "material": "Paint"
+    },
+    {
+        "title": "Our School in our Community",
+        "id": "our-school-in-our-community",
+        "artist": "Campbell Street Primary School",
+        "address": "Campbell Street & Warwick Street, Hobart",
+        "description": "The Campbell Street logo with circles, hold continents of the world which represent our multicultural school.",
+        "type": "Signal Box Art",
+        "year": "2012",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2684",
+        "images": [
+            "our-school-in-our-community.jpg",
+            "our-school-in-our-community-alt.jpg"
+        ],
+        "long": "147.323425069037654",
+        "lat": "-42.874402699237827",
+        "material": "Paint"
+    },
+    {
+        "title": "Flicks",
+        "id": "flicks",
+        "artist": "Tasmanian eSchool",
+        "address": "Collins Street & Harrington Street, Hobart",
+        "description": "Students arrived at design because of proximity to major cinema complex.",
+        "type": "Signal Box Art",
+        "year": "2012",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2697",
+        "images": [
+            "flicks.jpg",
+            "flicks-alt.jpg"
+        ],
+        "long": "147.325255933699196",
+        "lat": "-42.884904539818905",
+        "material": "Paint"
+    },
+    {
+        "title": "Hands On Tasmania",
+        "id": "hands-on-tasmania",
+        "artist": "Tasmanian Polytechnic, Migrant Education Hands On English classes",
+        "address": "Argyle Street & Liverpool Street, Hobart",
+        "description": "New responses to Tasmania.",
+        "type": "Signal Box Art",
+        "year": "2012",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2701",
+        "images": [
+            "hands-on-tasmania.jpg",
+            "hands-on-tasmania-alt.jpg"
+        ],
+        "long": "147.328303090157817",
+        "lat": "-42.880174006573903",
+        "material": "Paint"
+    },
+    {
+        "title": "Sense of Place",
+        "id": "sense-of-place",
+        "artist": "Guilford Young College",
+        "address": "Harrington Street & Melville Street, Hobart",
+        "description": "Each face of the box corresponds with the mapped land beyond it. In other words, facing south down Harrington Street, the facet shows the map of the land beyond the box. At the top of each facet, the urban mapped landscape gives way to the land underneath, the land of the traditional custodians, the Mouheneenner People.",
+        "type": "Signal Box Art",
+        "year": "2012",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2712",
+        "images": [
+            "sense-of-place.jpg",
+            "sense-of-place-alt.jpg"
+        ],
+        "long": "147.321872656608434",
+        "lat": "-42.882278488643884",
+        "material": "Paint"
+    },
+    {
+        "title": "Live",
+        "id": "live",
+        "artist": "Community Rehabilitation Unit Art Group",
+        "address": "Barrack Street & Davey Street, Hobart",
+        "description": "The design represents health services which have been provided on this site 90 Davey St., historically and currently. The Community Rehabilitation Unit provides a physical rehabilitation service for outpatients. The blues in our design reflect health/hospital settings. Parts of human body represented indicate a focus on specific areas of the body in relation to the rehabilitation needs of individuals requiring skilled health workers in many disciplines to guide the rehabilitation process.",
+        "type": "Signal Box Art",
+        "year": "2012",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2713",
+        "images": [
+            "live.bmp",
+            "live-alt.bmp"
+        ],
+        "long": "147.325488230209885",
+        "lat": "-42.887608208531233",
+        "material": "Paint"
+    },
+    {
+        "title": "Catching Your Eye",
+        "id": "catching-your-eye",
+        "artist": "St Michael's Collegiate School",
+        "address": "Macquarie Street & Molle Street, Hobart",
+        "description": "This design is made up of the eye catching things that surround our block. It connects  key symbols of the school to the symbols of the urban environment in a bright and colourful way.",
+        "type": "Signal Box Art",
+        "year": "2012",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2715",
+        "images": [
+            "catching-your-eye.jpg",
+            "catching-your-eye-alt.jpg"
+        ],
+        "long": "147.322619119860633",
+        "lat": "-42.888433910358799",
+        "material": "Paint"
+    },
+    {
+        "title": "Scotch Thistle Tavern 1828",
+        "id": "scotch-thistle-tavern-1828",
+        "artist": "Caroline Amos",
+        "address": "Barrack Street & Liverpool Street, Hobart",
+        "description": "The site of the original Scotch Thistle tavern is on the opposite street corner. (Grey Building, on the other side of image with front of tavern showing).",
+        "type": "Signal Box Art",
+        "year": "2012",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2720",
+        "images": [
+            "scotch-thistle-tavern-1828.jpg",
+            "scotch-thistle-tavern-1828-alt.jpg"
+        ],
+        "long": "147.322433664091761",
+        "lat": "-42.885723712317429",
+        "material": "Paint"
+    },
+    {
+        "title": "The Brisbane Stack",
+        "id": "the-brisbane-stack",
+        "artist": "Hayley Francis",
+        "address": "Brisbane Street & Campbell Street, Hobart",
+        "description": "The box located on the corner of Brisbane and Campbell streets, right outside a popular live music venue in Hobart so I made the box into an iconic stack of amps. The TSB celebrates live and local music in Hobart.",
+        "type": "Signal Box Art",
+        "year": "2012",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2726",
+        "images": [
+            "the-brisbane-stack.jpg",
+            "the-brisbane-stack-alt.jpg"
+        ],
+        "long": "147.326629586402703",
+        "lat": "-42.876971373964096",
+        "material": "Paint"
+    },
+    {
+        "title": "The Pigeons of Hobart",
+        "id": "the-pigeons-of-hobart",
+        "artist": "Lucy Hawthorne",
+        "address": "Campbell Street & Macquarie Street, Hobart",
+        "description": "A tribute to our feathery friends.",
+        "type": "Signal Box Art",
+        "year": "2012",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2743",
+        "images": [
+            "the-pigeons-of-hobart.jpg",
+            "the-pigeons-of-hobart-alt.jpg"
+        ],
+        "long": "147.332447801063523",
+        "lat": "-42.880726661515126",
+        "material": "Paint"
+    },
+    {
+        "title": "Out of the Shadows",
+        "id": "out-of-the-shadows",
+        "artist": "jan janssen Tasmania",
+        "address": "Harrington Street & Liverpool Street, Hobart",
+        "description": "A core group from Epilepsy Tasmania, Hobart worked together to produce artwork which represents the following: Epilepsy being unmasked in the community to reduce stigma and promote acceptance. The image incorporates participants' experience of the actual process of physical tests for example E.E.G, Neuro conductor studies and synapses monitoring.\n \nIt depicts emotions that tell of living with conditions such as isolation, loneliness, misunderstanding and the daily impact of epilepsy such as triggers including heat, flashing lights, tiredness and stress.\n\nParticipants have found various responses to epilepsy in the community both negative and positive- this is represented by the  movement throughout the design.",
+        "type": "Signal Box Art",
+        "year": "2012",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2744",
+        "images": [
+            "out-of-the-shadows.jpg",
+            "out-of-the-shadows-alt.jpg"
+        ],
+        "long": "147.324179045038193",
+        "lat": "-42.884130452612695",
+        "material": "Paint"
+    },
+    {
+        "title": "Seasons",
+        "id": "seasons",
+        "artist": "Hannah Cardamatis",
+        "address": "Brisbane Street & Elizabeth Street, Hobart",
+        "description": "Seasons of Hobart.",
+        "type": "Signal Box Art",
+        "year": "2012",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2759",
+        "images": [
+            "seasons.jpg",
+            "seasons-alt.jpg"
+        ],
+        "long": "147.323303484519982",
+        "lat": "-42.87968220346027",
+        "material": "Paint"
+    },
+    {
+        "title": "Crazy Flower Pattern",
+        "id": "crazy-flower-pattern",
+        "artist": "Youth Arts & Recreation Centre",
+        "address": "Campbell Street & Collins Street, Hobart",
+        "description": "Hand-drawn flower pattern designed by young people that access the Youth Arts & Recreation Centre",
+        "type": "Signal Box Art",
+        "year": "2012",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2783",
+        "images": [
+            "crazy-flower-pattern.jpg",
+            "crazy-flower-pattern-alt.jpg"
+        ],
+        "long": "147.331635953276589",
+        "lat": "-42.880105666861169",
+        "material": "Paint"
+    },
+    {
+        "title": "Forests of the Sea",
+        "id": "forests-of-the-sea",
+        "artist": "Malou Zuidema",
+        "address": "Bathurst Street & Murray Street, Hobart",
+        "description": "Giant Kelp forests create habitat of ecological and economic significance for iconic species such as the Southern Rock Lobster - important for Tasmanian fisheries. An overall decline of ~90% in this kelp has occurred over the past 50 years as warm, nutrient poor waters of the East Australian Current move further south, bringing sea urchin larvae which, when grown, go on to denude the abundant kelp forests; changing natural habitat and challenging the ecological balance for lobster and octopus populations.",
+        "type": "Signal Box Art",
+        "year": "2012",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2827",
+        "images": [
+            "forests-of-the-sea.jpg",
+            "forests-of-the-sea-alt.jpg"
+        ],
+        "long": "147.324266077470895",
+        "lat": "-42.881984436250498",
+        "material": "Paint"
+    },
+    {
+        "title": "Stump",
+        "id": "stump",
+        "artist": "Tom O'Hern",
+        "address": "Brisbane Street & Harrington Street, Hobart",
+        "description": "A tree stump, made up of fine pattern.",
+        "type": "Signal Box Art",
+        "year": "2012",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2834",
+        "images": [
+            "stump.jpg",
+            "stump-alt.jpg"
+        ],
+        "long": "147.320704419966205",
+        "lat": "-42.881686867422516",
+        "material": "Paint"
+    },
+    {
+        "title": "Mandala",
+        "id": "mandala",
+        "artist": "iriXx ",
+        "address": "Davey Street & Southern Outlet, Hobart",
+        "description": "This artwork takes its inspiration from the colours of the local environment, ethnographic art and fractal geometry. The Mandala is a symbol of unity and the vines and design represent unity, peace, harmony and community. The design was initially inspired by the music video 'Proboscis' by Paradox Explorer.",
+        "type": "Signal Box Art",
+        "year": "2012",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2859",
+        "images": [
+            "mandala.bmp",
+            "mandala-alt.bmp"
+        ],
+        "long": "147.318003605688546",
+        "lat": "-42.893172316296244",
+        "material": "Paint"
+    },
+    {
+        "title": "Untitled",
+        "id": "untitled-1",
+        "artist": "Steffi Koppelmann",
+        "address": "Elizabeth Street & Warwick Street, Hobart",
+        "description": "An exploration of the connections that exist throughout society.  I am particularly interested in social links and interconnections created by our experiences, relationships and thought.",
+        "type": "Signal Box Art",
+        "year": "2012",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2997",
+        "images": [
+            "untitled-1.jpg",
+            "untitled-1-alt.jpg"
+        ],
+        "long": "147.319066494762694",
+        "lat": "-42.877841506294502",
+        "material": "Paint"
+    },
+    {
+        "title": "Peace",
+        "id": "peace",
+        "artist": "The Friends' School Kindergarten",
+        "address": "Elizabeth Street & Burnett Street, Hobart",
+        "description": "As The Friends' School is a quaker school we have decided to base our artwork and thinking for the signal box in Burnett St  around one of the quaker values, PEACE. We invited the\nKindergarten children to think what peace means to them. These are their comments:\n\nThere are lots of people around the world and they are are all being friends (Hannah).\nThe boats are drifting and bobbing in the sea (Raban).\nThe trees and snow are peaceful (Lochie).\nThe trees and flowers are friends (Andrew).\nDucks are swimming in the water peacefully (Harry).\nThe sun is friends with the trees (Haruka).\nRiver, grass, and trees look peaceful (Sam).\nBirds are peaceful (Jonas).",
+        "type": "Signal Box Art",
+        "year": "2012",
+        "link_url": "https://www.urbansmartprojects.com/gallery/2999",
+        "images": [
+            "peace.jpg",
+            "peace-alt.jpg"
+        ],
+        "long": "147.317141287106466",
+        "lat": "-42.874483537032681",
+        "material": "Paint"
+    },
+    {
+        "title": "The Creature",
+        "id": "the-creature",
+        "artist": "Wendy Fitch",
+        "address": "Macquarie Street & Southern Outlet, Hobart",
+        "description": "A strange fishlike rainbow-serpent-inspired creature bursting out from the asphalt, containing the creative essence of Hobart.",
+        "type": "Signal Box Art",
+        "year": "2012",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3025",
+        "images": [
+            "the-creature.jpg",
+            "the-creature-alt.jpg"
+        ],
+        "long": "147.317330964714643",
+        "lat": "-42.892335720998709",
+        "material": "Paint"
+    },
+    {
+        "title": "Courage",
+        "id": "courage",
+        "artist": "Samuel Fenton",
+        "address": "Elizabeth Street & Collins Street, Hobart",
+        "description": "This artwork is an imitation of various shaped, oxidized metal sheets, riveted together, with foliage growing from the joins, obscuring sections of the rusty background. Heavily textured sandstone also features.",
+        "type": "Signal Box Art",
+        "year": "2012",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3036",
+        "images": [
+            "courage.jpg",
+            "courage-alt.jpg"
+        ],
+        "long": "147.329128562785684",
+        "lat": "-42.882079418585228",
+        "material": "Paint"
+    },
+    {
+        "title": "Spotted Hand Fish and City of Gonad Jelly Fish",
+        "id": "spotted-hand-fish-and-city-of-gonad-jelly-fish",
+        "artist": "Veronika Beinssen-Henry",
+        "address": "Davey Street & Argyle Street, Hobart",
+        "description": "Detailed and bright illustrations of the Spotted Hand Fish and patterned images of the City of Gonad Jelly Fish.",
+        "type": "Signal Box Art",
+        "year": "2016",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3493",
+        "images": [
+            "spotted-hand-fish-and-city-of-gonad-jelly-fish.jpg",
+            "spotted-hand-fish-and-city-of-gonad-jelly-fish-alt.jpg"
+        ],
+        "long": "147.33193241086235",
+        "lat": "-42.882515869727925",
+        "material": "Paint"
+    },
+    {
+        "title": "The Angels' Share",
+        "id": "the-angels-share",
+        "artist": "Steffi Koppelmann",
+        "address": "Antill Street & Davey Street, South Hobart",
+        "description": "A celebration of the Tasmanian whisky industry, featuring imagery from the distillation process.  This design has been inspired by a variety of Tasmanian distilleries and depicts stills specific to Tasmanian whisky distilleries.\nThe box is located on one of Hobart",
+        "type": "Signal Box Art",
+        "year": "2016",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3495",
+        "images": [
+            "the-angels-share.jpg",
+            "the-angels-share-alt.jpg"
+        ],
+        "long": "147.32050979981463",
+        "lat": "-42.891475353695753",
+        "material": "Paint"
+    },
+    {
+        "title": "All Together",
+        "id": "all-together",
+        "artist": "Claremont College EAL Class",
+        "address": "Main Road & Tower Road, New Town",
+        "description": "We are a group of students studying in Hobart, Tasmania but we all come from many countries including Ethiopia, Thailand, Burma, Afghanistan, Iran and Pakistan.  We carry our cultures with us especially our languages.  We also carry hope that we can all live together safely in our new home and community with love, justice and friendship.",
+        "type": "Signal Box Art",
+        "year": "2015",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3498",
+        "images": [
+            "all-together.jpg",
+            "all-together-alt.jpg"
+        ],
+        "long": "147.300570000514455",
+        "lat": "-42.853220000129632",
+        "material": "Paint"
+    },
+    {
+        "title": "Sustainability Matters",
+        "id": "sustainability-matters",
+        "artist": "Lenah Valley Primary School",
+        "address": "Augusta Road & Pottery Road, Lenah Valley",
+        "description": "A collaboration of Year 6 students from Lenah Valley Primary School highlighting the importance of acting sustainably and caring for our local and world environment.",
+        "type": "Signal Box Art",
+        "year": "2015",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3499",
+        "images": [
+            "sustainability-matters.jpg",
+            "sustainability-matters-alt.jpg"
+        ],
+        "long": "147.288567787049544",
+        "lat": "-42.862722994119999",
+        "material": "Paint"
+    },
+    {
+        "title": "Native Fauna - Lenah Valley",
+        "id": "native-fauna-lenah-valley",
+        "artist": "Lenah Valley Primary School",
+        "address": "Augusta Road & Giblin Street, Lenah Valley",
+        "description": "A tessellation of squares and rectangles in green shades forms the background. Silhouettes of native fauna serves as the foreground.",
+        "type": "Signal Box Art",
+        "year": "2015",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3500",
+        "images": [
+            "native-fauna-lenah-valley.jpg",
+            "native-fauna-lenah-valley-alt.jpg"
+        ],
+        "long": "147.295559955505411",
+        "lat": "-42.865661865000831",
+        "material": "Paint"
+    },
+    {
+        "title": "Fish Tank",
+        "id": "fish-tank",
+        "artist": "Waimea Heights Primary School",
+        "address": "Sandy Bay Road, Near Beach Road, Sandy Bay",
+        "description": "Rather than treat the box as four flat surfaces to paint on, the students tried to incorporate the shape of the box into the artwork itself.  Firstly we thought of turning the box into a shop, and then a robot, but the idea we finally chose was a fish-tank.  In order for this to 'work' we needed to paint in a realistic style. The three grade six students who painted the box, researched tropical fish, and each chose a fish to reproduce on the electrical box. To ensure each individual fish was the same, the students made templates from recycled x-rays to help them. The seaweed, rocks etc. were added later.",
+        "type": "Signal Box Art",
+        "year": "2016",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3503",
+        "images": [
+            "fish-tank.jpg",
+            "fish-tank-alt.jpg"
+        ],
+        "long": "147.355240870432056",
+        "lat": "-42.913139546354031",
+        "material": "Paint"
+    },
+    {
+        "title": "Tasmanian Animals",
+        "id": "tasmanian-animals",
+        "artist": "Albuera Street Primary School",
+        "address": "Sandy Bay Road & Byron Street, Sandy Bay",
+        "description": "Tasmanian animals by Albuera street Primary students.",
+        "type": "Signal Box Art",
+        "year": "2016",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3504",
+        "images": [
+            "tasmanian-animals.jpg",
+            "tasmanian-animals-alt.jpg"
+        ],
+        "long": "147.326158553554166",
+        "lat": "-42.891958664224234",
+        "material": "Paint"
+    },
+    {
+        "title": "Lions' Pride",
+        "id": "lions-pride",
+        "artist": "The Hutchins School Kindergarten",
+        "address": "Sandy Bay Road & Nelson Roads, Sandy Bay",
+        "description": "As the box is located near our school we decided to show our pride in our school with a collection of lion paintings by our Pre-Kindergarten and Kindergarten boys.  The background will be Magenta which is also one of our school colours.",
+        "type": "Signal Box Art",
+        "year": "2015",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3505",
+        "images": [
+            "lions-pride.jpg",
+            "lions-pride-alt.jpg"
+        ],
+        "long": "147.333727259576818",
+        "lat": "-42.901669502241958",
+        "material": "Paint"
+    },
+    {
+        "title": "Forest Floor and Canopy",
+        "id": "forest-floor-and-canopy",
+        "artist": "Deborah Wace",
+        "address": "Macquarie Street & Antill Street, South Hobart",
+        "description": "Orchid, fungi, leaf and fern. Some shapes and textures of natural forms found in Tasmania",
+        "type": "Signal Box Art",
+        "year": "2017",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3508",
+        "images": [
+            "forest-floor-and-canopy.jpg",
+            "forest-floor-and-canopy-alt.jpg"
+        ],
+        "long": "147.319671400148508",
+        "lat": "-42.890824627868504",
+        "material": "Paint"
+    },
+    {
+        "title": "Seagulls",
+        "id": "seagulls",
+        "artist": "Sandy Bay Infant School",
+        "address": "Sandy Bay Road & Near Canice Avenue, Lower Sandy Bay",
+        "description": "Seagulls at the beach",
+        "type": "Signal Box Art",
+        "year": "2016",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3510",
+        "images": [
+            "seagulls.jpg",
+            "seagulls-alt.jpg"
+        ],
+        "long": "147.348830855501575",
+        "lat": "-42.90984570745632",
+        "material": "Paint"
+    },
+    {
+        "title": "Locals...",
+        "id": "locals",
+        "artist": "Rachael Rose",
+        "address": "Brooker Avenue & Burnett Street, North Hobart",
+        "description": "Eastern Rosellas and Blue Gums are native to Tasmania - a common sight on the Domain across the freeway and in nearby parks. They bring a splash of colour to a busy industrial area.",
+        "type": "Signal Box Art",
+        "year": "2015",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3512",
+        "images": [
+            "locals.jpg",
+            "locals-alt.jpg"
+        ],
+        "long": "147.322703963671444",
+        "lat": "-42.87127945227482",
+        "material": "Paint"
+    },
+    {
+        "title": "Cloud Temple",
+        "id": "cloud-temple",
+        "artist": "Penny Carey-Wells",
+        "address": "Macquarie Street & Murray Street, Hobart",
+        "description": "Landscape/urbanscape referencing the Classical architecture, the iconic park and fountain in the near vicinity.",
+        "type": "Signal Box Art",
+        "year": "2016",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3518",
+        "images": [
+            "cloud-temple.jpg",
+            "cloud-temple-alt.jpg"
+        ],
+        "long": "147.328857899289176",
+        "lat": "-42.8839316921703",
+        "material": "Paint"
+    },
+    {
+        "title": "Parks, Stop and Enjoy",
+        "id": "parks-stop-and-enjoy",
+        "artist": "YMEP, Derwent and Tasman students",
+        "address": "New Town Road & Argyle Street, New Town",
+        "description": "Parks are a place to stop, enjoy and relax in. We looked at the surroundings, colours and things we enjoyed about the area. Birds are an important part of parks so we looked at the types of birds in the area. The images represent things in the  area and the colours of the seasons.",
+        "type": "Signal Box Art",
+        "year": "2016",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3531",
+        "images": [
+            "parks-stop-and-enjoy.jpg",
+            "parks-stop-and-enjoy-alt.jpg"
+        ],
+        "long": "147.310836514436431",
+        "lat": "-42.864059707027202",
+        "material": "Paint"
+    },
+    {
+        "title": "Community Radio Hobart",
+        "id": "community-radio-hobart",
+        "artist": "Majella Eales",
+        "address": "Liverpool Street & Tasman Highway, Hobart",
+        "description": "This artwork is based around an outer space design with musical notes zooming around like shooting stars.  The artwork is based upon the idea of radio waves and their invisible presence within our atmosphere.",
+        "type": "Signal Box Art",
+        "year": "2016",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3532",
+        "images": [
+            "community-radio-hobart.jpg",
+            "community-radio-hobart-alt.jpg"
+        ],
+        "long": "147.334012291931685",
+        "lat": "-42.87697344086817",
+        "material": "Paint"
+    },
+    {
+        "title": "Squares and Rectangles. But mostly Rectangles",
+        "id": "squares-and-rectangles-but-mostly-rectangles",
+        "artist": "Anastasia Gardyne",
+        "address": "New Town Road & Forster Street, New Town",
+        "description": "Using vibrant colours, throwing in metallic, about the urban life and all the repetitive shapes and geometric lines, but giving it vibrancy and making it fun.",
+        "type": "Signal Box Art",
+        "year": "2016",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3533",
+        "images": [
+            "squares-and-rectangles-but-mostly-rectangles.jpg",
+            "squares-and-rectangles-but-mostly-rectangles-alt.jpg"
+        ],
+        "long": "147.303237602896104",
+        "lat": "-42.855867170867334",
+        "material": "Paint"
+    },
+    {
+        "title": "Highway colour",
+        "id": "highway-colour",
+        "artist": "Keitha Granville",
+        "address": "Brooker Avenue & Warwick Street, Hobart",
+        "description": "Traffic lights, headlights, tail-lights, complimented by houses, trees and flowers in the gardens and median strips.",
+        "type": "Signal Box Art",
+        "year": "2016",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3544",
+        "images": [
+            "highway-colour.jpg",
+            "highway-colour-alt.jpg"
+        ],
+        "long": "147.324512846712423",
+        "lat": "-42.873528838709476",
+        "material": "Paint"
+    },
+    {
+        "title": "Space Anime",
+        "id": "space-anime",
+        "artist": "Youth Arts and Rec Centre",
+        "address": "Brooker Highway & Bathurst Street, Hobart",
+        "description": "various anime images are suspended in scenes from the universe.",
+        "type": "Signal Box Art",
+        "year": "2017",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3615",
+        "images": [
+            "space-anime.jpg",
+            "space-anime-alt.jpg"
+        ],
+        "long": "147.330058852921582",
+        "lat": "-42.878028031082117",
+        "material": "Paint"
+    },
+    {
+        "title": "Rap Around",
+        "id": "rap-around",
+        "artist": "Mark Buckland",
+        "address": "Campbell Street & Davey Street, Hobart",
+        "description": "A multi-coloured design hinting at an abstracted Hobart landscape that wraps around the box along with a spiralling text message where the tail end of one word forms the beginning of the next to provide verbal cues that shift depending on where your focus falls.",
+        "type": "Signal Box Art",
+        "year": "2017",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3737",
+        "images": [
+            "rap-around.jpg",
+            "rap-around-alt.jpg"
+        ],
+        "long": "147.333176961834198",
+        "lat": "-42.88148743750196",
+        "material": "Paint"
+    },
+    {
+        "title": "Wycinanki Waratah",
+        "id": "wycinanki-waratah",
+        "artist": "Nicole O'Loughlin",
+        "address": "Elizabeth Street, New Town Road, New Town",
+        "description": "Design is inspired by Polish embroidery and Tasmanian Flora and Fauna in response to the location of the signal box outside the Polish Club in New Town (Hobart) Tasmania.",
+        "type": "Signal Box Art",
+        "year": "2017",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3765",
+        "images": [
+            "wycinanki-waratah.jpg",
+            "wycinanki-waratah-alt.jpg"
+        ],
+        "long": "147.311528726114545",
+        "lat": "-42.867589439294356",
+        "material": "Paint"
+    },
+    {
+        "title": "Our River Derwent",
+        "id": "our-river-derwent",
+        "artist": "Yvonne Kerklaan",
+        "address": "Sandy Bay Road & Gladstone Street, Battery Point",
+        "description": "This design depicts the Derwent River on which Hobart, Tasmania's capital city is situated. It features replica Brig the \"Lady Nelson\" along with some marine life that visit our beautiful waters.",
+        "type": "Signal Box Art",
+        "year": "2017",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3766",
+        "images": [
+            "our-river-derwent.jpg",
+            "our-river-derwent-alt.jpg"
+        ],
+        "long": "147.329936256819536",
+        "lat": "-42.888036451268633",
+        "material": "Paint"
+    },
+    {
+        "title": "Urban Footprint",
+        "id": "urban-footprint",
+        "artist": "Chris Paton",
+        "address": "Davey Street & Molle Street, Hobart",
+        "description": "Slick design,cool colours and smart detailed brush work act as a bold reminder to the presence of our 4 legged friends and the balance society must obtain between our natural and urban environment.",
+        "type": "Signal Box Art",
+        "year": "2017",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3767",
+        "images": [
+            "urban-footprint.jpg",
+            "urban-footprint-alt.jpg"
+        ],
+        "long": "147.323849225021519",
+        "lat": "-42.889256702897846",
+        "material": "Paint"
+    },
+    {
+        "title": "Peace and Freedom",
+        "id": "peace-and-freedom",
+        "artist": "Rebecca Brogan",
+        "address": "Argyle Street & Brisbane Sreet, Hobart",
+        "description": "Abstract flowing rainbow design featuring a dove and a Tasmanian wedge-tailed eagle soaring amidst the colours.",
+        "type": "Signal Box Art",
+        "year": "2017",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3768",
+        "images": [
+            "peace-and-freedom.jpg",
+            "peace-and-freedom-alt.jpg"
+        ],
+        "long": "147.325264141900135",
+        "lat": "-42.878010049090229",
+        "material": "Paint"
+    },
+    {
+        "title": "Love, Joy & Peace in Hobart",
+        "id": "love-joy-peace-in-hobart",
+        "artist": "Helen Devenish",
+        "address": "Barrack Street & Collins Street, Hobart",
+        "description": "We love Hobart. This design represents Hobart with the fish representing people from different nationalities coming here. The dove represents peace, the hearts represent love and the music notes - joy.",
+        "type": "Signal Box Art",
+        "year": "2017",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3769",
+        "images": [
+            "love-joy-peace-in-hobart.jpg",
+            "love-joy-peace-in-hobart-alt.jpg"
+        ],
+        "long": "147.323687688580833",
+        "lat": "-42.886364811670603",
+        "material": "Paint"
+    },
+    {
+        "title": "Berry Hungry",
+        "id": "berry-hungry",
+        "artist": "Tania Walker",
+        "address": "Davey Street & Evans Street, Hobart",
+        "description": "Silver gulls squabble over a cherry. This piece references the nearby IXL Jam Factory, and the proliferation of gulls along Hobart's waterfront.",
+        "type": "Signal Box Art",
+        "year": "2017",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3770",
+        "images": [
+            "berry-hungry.jpg",
+            "berry-hungry-alt.jpg"
+        ],
+        "long": "147.334888884069954",
+        "lat": "-42.880474504928891",
+        "material": "Paint"
+    },
+    {
+        "title": "We are Learners",
+        "id": "we-are-learners",
+        "artist": "Sheree Martin",
+        "address": "Murray Street & Patrick Street, Hobart",
+        "description": "An exploration of colour (Primary & Secondary Colours via Rainbow Flowers) with the Lansdowne Crescent Primary School Kinders 2017",
+        "type": "Signal Box Art",
+        "year": "2017",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3771",
+        "images": [
+            "we-are-learners.jpg",
+            "we-are-learners-alt.jpg"
+        ],
+        "long": "147.31998963739602",
+        "lat": "-42.879891748162528",
+        "material": "Paint"
+    },
+    {
+        "title": "Pitt Farm",
+        "id": "pitt-farm",
+        "artist": "Lindy Beven",
+        "address": "Main Road & Creek Rroad, New Town",
+        "description": "Picture and information on Pitt Farm which has historical value, not only to Newtown, Tasmania, but also to Australian heritage as its is the second farmhouse that was built in our free settlement origins.",
+        "type": "Signal Box Art",
+        "year": "2017",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3772",
+        "images": [
+            "pitt-farm.jpg",
+            "pitt-farm-alt.jpg"
+        ],
+        "long": "147.298485743528317",
+        "lat": "-42.851546460321345",
+        "material": "Paint"
+    },
+    {
+        "title": "Box 9196",
+        "id": "box-9196",
+        "artist": "Hugh Kerr",
+        "address": "Argyle Street & Warwick Street, Hobart",
+        "description": "The design of the box takes its inspiration from the names of the intersecting streets:\nThe tartan pattern is the tartan of the Campbells of Argyll in Scotland after whom the street was supposedly named by Lachlan Macquarie. \nThe bear and billet elements come from the county coat of arms of Warwickshire, UK -  Warwick St was so named because it was the home town of Surveyor-General of Tasmania, George William Evans. However the bear and billet symbol has never struck me as very nice, so in this design the bear is free of its chain. This also reflects Hobart",
+        "type": "Signal Box Art",
+        "year": "2017",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3773",
+        "images": [
+            "box-9196.jpg",
+            "box-9196-alt.jpg"
+        ],
+        "long": "147.322085940810155",
+        "lat": "-42.875751008063723",
+        "material": "Paint"
+    },
+    {
+        "title": "Mountains of Time",
+        "id": "mountains-of-time",
+        "artist": "Heather Menzies",
+        "address": "Harrington Street & Patrick Street, Hobart",
+        "description": "A colourful depiction of Southern Tasmanian landscape. Featuring Mount Wellington, Hartz Peak and the Tasman Bridge.",
+        "type": "Signal Box Art",
+        "year": "2017",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3774",
+        "images": [
+            "mountains-of-time.jpg",
+            "mountains-of-time-alt.jpg"
+        ],
+        "long": "147.319044908822349",
+        "lat": "-42.880619280936216",
+        "material": "Paint"
+    },
+    {
+        "title": "Antarctic",
+        "id": "antarctic",
+        "artist": "Maria Isabel Lozano Fernandez",
+        "address": "Brooker Highway & Davey Street, Hobart",
+        "description": "The artwork represents Hobart connection with the Antarctic as well as its location as a base. Hobart icons are people and the bridge which are associated with the Antarctic represented by the animals. The distance travelled and the link as a base are represented by the wandering albatroses and the red hulled ship (Aurora Australis)",
+        "type": "Signal Box Art",
+        "year": "2017",
+        "link_url": "https://www.urbansmartprojects.com/gallery/3775",
+        "images": [
+            "antarctic.jpg",
+            "antarctic-alt.jpg"
+        ],
+        "long": "147.334728502157958",
+        "lat": "-42.878771722751502",
+        "material": "Paint"
+    },
+    {
+        "title": "Tasmanian Red Handfish",
+        "id": "tasmanian-red-handfish",
+        "artist": "Amok Island",
+        "address": "Prudy Mart, Hobart",
+        "description": "Endemic to Tasmania, the red handfish uses its fins to 'walk' across the seafloor. With less than 1000 remaining in the wild, this artwork seeks to raise awareness and encourage protection of this unique fish.\n",
+        "type": "Art Wall",
+        "year": "2016",
+        "date": "2016-08-16T00:00:00.000Z",
+        "images": [
+            "tasmanian-red-handfish.jpg"
+        ],
+        "material": "Paint"
+    },
+    {
+        "title": "Chairs",
+        "id": "chairs",
+        "artist": "Jae Criddle",
+        "address": "Prudys Mart",
+        "description": "A nod to Mr Arthur Prudy, Chairs speaks of local history, referencing his second hand furniture business, which ran in the lane for 27 years. These quirky characters sit on antique chairs, carefully keeping watch on Purdys Mart.",
+        "type": "Art Wall",
+        "year": "2016",
+        "date": "2016-09-01T00:00:00.000Z",
+        "images": [
+            "chairs.jpg"
+        ],
+        "material": "Paint"
+    },
+    {
+        "title": "MOBIUS STRIP",
+        "id": "mobius-strip",
+        "artist": "Chooka, Aedan Howlett, Seven, Odi, Lukan Smith",
+        "address": "82-84 Bathurst Street",
+        "description": "MOBIUS STRIP is a 5-minded reflection on the ocean, Styles, colours and ideas clashing like waves-creating an aquatic harmony. With many individual stories told, the story for the viewer is let to their own imagination.",
+        "type": "Art Wall",
+        "year": "2017",
+        "date": "2017-03-30T00:00:00.000Z",
+        "images": [
+            "mobius-strip.jpg"
+        ],
+        "material": "Paint"
+    },
+    {
+        "title": "Sprout",
+        "id": "sprout",
+        "artist": "Sarah Etheridge",
+        "address": "165 Elizabeth Street",
+        "description": "Sprout is a discussion about consumerism and in particular, everyday recyclable material. I've done this by attracting city goers using vibrant colours against an almost harsh white wall, allowing them to reflect upon its deeper meaning and what they can take from it.",
+        "type": "Art Wall",
+        "year": "2016",
+        "date": "2017-03-30T00:00:00.000Z",
+        "images": [
+            "sprout.jpg"
+        ],
+        "material": "Paint"
+    },
+    {
+        "title": "Lost giant",
+        "id": "lost-giant",
+        "artist": "Stormie Mills",
+        "address": "Criterion Street",
+        "description": "Lost Giant is a character in a global story. With his smartphone's GPS in hand, he sets out on a journey to discover the city himself. Share the journey as he navigates the streets of Hobart.",
+        "type": "Art Wall",
+        "year": "2015",
+        "date": "2015-01-01T00:00:00.000Z",
+        "images": [
+            "lost-giant.jpg"
+        ],
+        "material": "Paint"
+    },
+    {
+        "title": "Teraform",
+        "id": "teraform",
+        "artist": "Tom O'Hern",
+        "address": "Mathers Place",
+        "description": "Teraform is a weed pushing through a crack. It's some far off jungle. Your mildly disturbed neighbour's overgrown yard. A rouge bacteria clinging to a probe on Mars. R maybe just the kind of place where car wrecks go to be swallowed.",
+        "type": "Art Wall",
+        "year": "2016",
+        "date": "2016-03-01T00:00:00.000Z",
+        "images": [
+            "teraform.jpg"
+        ],
+        "material": "Paint"
+    },
+    {
+        "title": "Trapdoor",
+        "id": "trapdoor",
+        "artist": "Jade Pollard",
+        "address": "162 Liverpool Street",
+        "description": "Trapdoor takes passers-by on a tourney through a dark dungeon cave filled with treasure and crystals. Influenced by various cartoons, including a 1990's tv show of the same name, Trapdoor is a nostalgic connection to a 1990s childhood.",
+        "type": "Art Wall",
+        "year": "2017",
+        "date": "2017-03-30T00:00:00.000Z",
+        "images": [
+            "trapdoor.jpg"
+        ],
+        "material": "Paint"
+    },
+    {
+        "title": "Yes Mountain",
+        "id": "yes-mountain",
+        "artist": "Bonsai and Ghostpatrol",
+        "address": "Victoria Street",
+        "description": " ",
+        "type": "Art Wall",
+        "year": "2016",
+        "date": "2015-11-15T00:00:00.000Z",
+        "images": [
+            "yes-mountain.jpg"
+        ],
+        "material": "Paint"
+    },
+    {
+        "title": "Rodent Six",
+        "id": "rodent-six",
+        "artist": "Luffy Rae",
+        "address": "158 Collins St",
+        "description": "Re-imaging object and artefacts from the pop culture that surrounded children growing up in the 1990s. Virtual pets and portable game console inhabit vivid memories of tender moments, looming over us forever with dreaming eyes and rose coloured cheeks.",
+        "type": "Art Wall",
+        "year": "2017",
+        "date": "2017-03-30T00:00:00.000Z",
+        "images": [
+            "rodent-six.jpg"
+        ],
+        "material": "Paint"
+    },
+    {
+        "title": "Everyone Needs a Hand Sometimes",
+        "id": "everyone-needs-a-hand-sometimes",
+        "artist": "Stormie Mills",
+        "address": "Collins Court",
+        "description": "As these characters push and swing, we see the idea of giving and taking and working together to create the equilibrium required to maintain the balance of everyday life, set against the backdrop of Hobart's hanging urban landscape.",
+        "type": "Art Wall",
+        "year": "2015",
+        "date": "2015-11-15T00:00:00.000Z",
+        "images": [
+            "everyone-needs-a-hand-sometimes.jpg"
+        ],
+        "material": "Paint"
+    },
+    {
+        "title": "Birds of a Feather",
+        "id": "birds-of-a-feather",
+        "artist": "Phibs",
+        "address": "Collins Court",
+        "description": "I've been inspired by the cheeky and playful character of birds for this work. My aim is to create and engaging mural using pattern and repetition to give a sense of movement and draw people in to use their imaginations.",
+        "type": "Art Wall",
+        "year": "2016",
+        "date": "2016-10-01T00:00:00.000Z",
+        "images": [
+            "birds-of-a-feather.jpg"
+        ],
+        "material": "Paint"
+    },
+    {
+        "title": "Weedy Sea Dragon",
+        "id": "weedy-sea-dragon",
+        "artist": "Bonsai and Ghostpatrol",
+        "address": "Brooke Street",
+        "description": " ",
+        "type": "Art Wall",
+        "year": "2015",
+        "date": "2015-11-15T00:00:00.000Z",
+        "images": [
+            "weedy-sea-dragon.jpg"
+        ],
+        "material": "Paint"
+    },
+    {
+        "title": "YOU'RE HERE",
+        "id": "youre-here",
+        "artist": "Georgia Hill",
+        "address": "Lynton Avenue underpass",
+        "description": "YOU'RE HERE calls on viewers to pause as they enter the underpass and reflect on their physical, mental or emotional 'here'. This open ended phrase can be read in literal or complex ways, dependent upon personal experience.",
+        "type": "Art Wall",
+        "year": "2016",
+        "date": "2016-07-01T00:00:00.000Z",
+        "images": [
+            "youre-here.jpg"
+        ],
+        "material": "Paint"
+    }
+]

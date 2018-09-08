@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	{% include 'partials/meta.html' %}
+	<title>urban hobart</title>
+</head>
+<body class="index-page">
+
+<div class="site">
+
+	{% include 'partials/sidebar.html' %}
+
+	<main class="main">
+
+		{% if filter %}
+			<h1 class="filter-title">
+				{% if filter == 'artist' and filter_value in artists %}
+					Artwork Created by {{ artists[filter_value] }}
+				{% elif filter == 'material' %}
+					{{ materials[filter_value] | heading }} Artwork
+				{% elif filter == 'type' %}
+					{{ types[filter_value] | heading }}
+				{% else %}
+					{{ filter.title() }}: {{ filter_value }}
+				{% endif %}
+			</h1>
+		{% endif %}
+
+		<div class="artwork-grid">
+
+			{% for artwork in artworks %}
+				{% if artwork.images %}
+					<figure class="artwork" title="{{ artwork.title }}">
+						<a href="/artwork/{{ artwork.id }}">
+							<img src="/static/images/full/{{ artwork.images[0] }}">
+						</a>
+					</figure>
+				{% endif %}
+			{% endfor %}
+
+		</div>
+
+	</main>
+
+	{% include 'partials/footer.html' %}
+
+</div>
+
+<script src="/static/dist/app.js"></script>
+
+</body>
+</html>

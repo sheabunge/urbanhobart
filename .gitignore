@@ -1,0 +1,6 @@
+__pycache__/
+bower_components/
+node_modules/
+static/dist/
+static/fonts/
+static/images/

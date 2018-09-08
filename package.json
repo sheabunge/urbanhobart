@@ -1,0 +1,56 @@
+{
+  "name": "govhack18",
+  "version": "1.0.0",
+  "description": "Govhack 2018 project",
+  "author": "Shea Bunge <bungeshea@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/register": "^7.0.0",
+    "autoprefixer": "^9.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babelify": "^10.0.0",
+    "browser-sync": "^2.24.7",
+    "browserify": "^16.2.2",
+    "cssnano": "^4.1.0",
+    "gulp": "^4.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-eslint": "^5.0.0",
+    "gulp-ext-replace": "^0.3.0",
+    "gulp-flatten": "^0.4.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "postcss-scss": "^2.0.0",
+    "precss": "^3.1.2",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-pro": "^5.3.1",
+    "bootstrap": "^4.1.3",
+    "freewall": "^1.0.8",
+    "gulp-image-resize": "^0.13.0",
+    "masonry-layout": "^4.2.2"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-env"
+    ]
+  },
+  "main": "gulpfile.babel.js",
+  "scripts": {
+    "test": "gulp test-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheabunge/govhack18.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sheabunge/govhack18/issues"
+  },
+  "homepage": "https://github.com/sheabunge/govhack18#readme"
+}
