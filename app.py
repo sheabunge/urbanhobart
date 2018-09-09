@@ -146,7 +146,8 @@ def render_map():
 				'lat': float(artwork.lat),
 				'long': float(artwork.long),
 				'uid': artwork.id,
-				'title': artwork.title
+				'title': artwork.title,
+				'image': artwork.images[0]
 			})
 
 	return render_template('map.html', artwork_location_data=json.dumps(location_data), **global_context)

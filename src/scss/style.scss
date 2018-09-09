@@ -8,6 +8,10 @@ $fa-font-path: '../fonts';
 @import 'sidebar';
 @import 'details';
 
+html, body {
+	height: 100%;
+}
+
 .artwork-grid {
   line-height: 0;
   column-count: 5;
@@ -33,6 +37,7 @@ $fa-font-path: '../fonts';
 }
 
 #large-map {
-    height: 700px;
+    min-height: 700px;
     width: 100%;
+	height: 100%;
 }

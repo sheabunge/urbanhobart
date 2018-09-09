@@ -107,10 +107,21 @@ gulp.task('clean', () => {
 		.pipe(clean());
 });
 
-gulp.task('images', () => {
+gulp.task('imagemin', () => {
 	return gulp.src(dirs.images + 'full/*')
 		.pipe(imagemin())
 		.pipe(gulp.dest(dirs.images + 'full'));
+
+});
+
+gulp.task('resize-images', () => {
+	return gulp.src(dirs.images + 'full/*')
+		.pipe(image_resize({
+			width: 32,
+			height: 32,
+			crop: false,
+		}))
+		.pipe(gulp.dest(dirs.images + 'thumb'));
 
 });
 

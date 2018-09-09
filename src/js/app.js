@@ -36,7 +36,7 @@
 				let marker = new google.maps.Marker({
 					position: {lat: artwork.lat, lng: artwork.long},
 					map: map,
-					label: artwork.title
+					icon: '/static/images/thumb/' + artwork.image
 				});
 
 				marker.addListener('click', () => {
