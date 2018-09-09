@@ -2,8 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	{% include 'partials/meta.html' %}
-	<title>urban hob·art</title>
+	{% include 'partials/head_meta.html' %}
 </head>
 <body class="single-artwork-page">
 
@@ -61,11 +60,6 @@
 	{% include 'partials/footer.html' %}
 </div>
 
-<script src="/static/dist/app.js"></script>
-
-{#{% if show_map %}#}
-{#	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDHcTEGDOEvnSfv7oQbEcGxzIWFxPVDeM4&callback=init_map" async defer></script>#}
-{#{% endif %}#}
-
+{% include 'partials/footer_meta.html' %}
 </body>
 </html>
