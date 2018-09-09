@@ -1,28 +1,22 @@
 (function () {
 	'use strict';
 
-	window.addEventListener('load', () => {
-		let artwork_filters = document.querySelectorAll('.filter-artwork select');
+	let artwork_filters = document.querySelectorAll('.filter-artwork select');
 
-		if (artwork_filters) {
-			for (let filter of artwork_filters) {
-				filter.addEventListener('change', () => {
+	for (let filter of artwork_filters) {
+		filter.addEventListener('change', () => {
+			const selected = filter.options[filter.selectedIndex];
+			const name = filter.name;
 
-					const selected = filter.options[filter.selectedIndex];
-					const name = filter.name;
-
-					if (filter.selectedIndex === 0) {
-						window.location.pathname = '/';
-					} else if (selected) {
-						window.location.pathname = '/' + name + '/' + selected.value;
-					}
-				});
+			if (filter.selectedIndex === 0) {
+				window.location.pathname = '/';
+			} else if (selected) {
+				window.location.pathname = '/' + name + '/' + selected.value;
 			}
-		}
+		});
+	}
 
-	});
-
-	let render_large_map = function (start_lat, start_long) {
+	let render_large_map = (start_lat, start_long) => {
 		const default_lat = -42.8838359, default_long = 147.3311996;
 
 		let center = (start_lat === undefined || start_long === undefined) ?
@@ -34,25 +28,23 @@
 			center: center
 		});
 
-		if (window.artwork_locations) {
-			for (let artwork of window.artwork_locations) {
-				let marker = new google.maps.Marker({
-					position: {lat: artwork.lat, lng: artwork.long},
-					map: map,
-					icon: '/static/images/thumb/' + artwork.image
-				});
+		for (let artwork of window.artwork_locations) {
+			let marker = new google.maps.Marker({
+				position: {lat: artwork.lat, lng: artwork.long},
+				map: map,
+				icon: '/static/images/thumb/' + artwork.image
+			});
 
-			    let infowindow = new google.maps.InfoWindow({
-				    content: artwork.title + '<br><img src="/static/images/full/' + artwork.image + '" width="200px" style="display: block; margin: 5px auto 0">'
-			    });
+		    let infowindow = new google.maps.InfoWindow({
+			    content: artwork.title + '<br><img src="/static/images/full/' + artwork.image + '" width="200px" style="display: block; margin: 5px auto 0">'
+		    });
 
-				marker.addListener('click', () => {
-					window.location.pathname = '/artwork/' + artwork.uid
-				});
+			marker.addListener('click', () => {
+				window.location.pathname = '/artwork/' + artwork.uid
+			});
 
-				marker.addListener('mouseover', () => infowindow.open(map, marker));
-				marker.addListener('mouseout', () => infowindow.close(map, marker));
-			}
+			marker.addListener('mouseover', () => infowindow.open(map, marker));
+			marker.addListener('mouseout', () => infowindow.close(map, marker));
 		}
 
 		if (start_lat !== undefined && start_long !== undefined) {
@@ -65,7 +57,7 @@
 		}
 	};
 
-	window.load_large_map = function () {
+	window.load_large_map = () => {
 
 		if (navigator.geolocation) {
 			navigator.geolocation.getCurrentPosition(
@@ -75,6 +67,6 @@
 		} else {
 			render_large_map()
 		}
-	}
+	};
 
 })();
