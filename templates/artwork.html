@@ -46,12 +46,6 @@
 
 		</div>
 
-		{% if show_map %}
-			<div class="embedded-map">
-				<div id="map" class="single-artwork-map" data-x="{{ artwork.x }}" data-y="{{ artwork.y }}"></div>
-			</div>
-		{% endif %}
-
 		{% if map_url %}
 			<iframe width="600" height="450" frameborder="0" style="border:0" src="{{ map_url }}" allowfullscreen></iframe>
 		{% endif %}

@@ -3937,11 +3937,11 @@
         "id": "youre-here",
         "artist": "Georgia Hill",
         "material": "Paint",
-        "address": "Lynton Avenue underpass",
         "description": "YOU'RE HERE calls on viewers to pause as they enter the underpass and reflect on their physical, mental or emotional 'here'. This open ended phrase can be read in literal or complex ways, dependent upon personal experience.",
         "type": "Art Wall",
         "year": "2016",
         "date": "2016-07-01T00:00:00.000Z",
+        "address": "Lynton Avenue underpass",
         "images": [
             "youre-here.jpg"
         ]

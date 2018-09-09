@@ -136,5 +136,21 @@ def render_material(material):
 	return render_filtered_index('material', material)
 
 
+@app.route('/map')
+def render_map():
+	location_data = []
+
+	for artwork in artwork_list.values():
+		if artwork.lat and artwork.long:
+			location_data.append({
+				'lat': float(artwork.lat),
+				'long': float(artwork.long),
+				'uid': artwork.id,
+				'title': artwork.title
+			})
+
+	return render_template('map.html', artwork_location_data=json.dumps(location_data), **global_context)
+
+
 if __name__ == '__main__':
 	app.run(debug=True)

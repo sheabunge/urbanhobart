@@ -1,18 +1,6 @@
 (function () {
 	'use strict';
 
-	// window.init_map = () => {
-	// 	let map_el = document.getElementById('map');
-	//
-	// 	window.artwork_map = new google.maps.Map(map_el, {
-	// 		center: {lat: -34.397, lng: 150.644},
-	// 		zoom: 8
-	// 	});
-	//
-	// 	 new google.maps.Marker({position: {lat: -34.397, lng: 150.644}, map: map});
-	// };
-
-
 	let artwork_filters = document.querySelectorAll('.filter-artwork select');
 
 	if (artwork_filters) {
@@ -28,6 +16,54 @@
 					window.location.pathname = '/' + name + '/' + selected.value;
 				}
 			});
+		}
+	}
+
+	let render_large_map = function (start_lat, start_long) {
+		const default_lat = -42.8838359, default_long = 147.3311996;
+
+		let center = (start_lat === undefined || start_long === undefined) ?
+			{lat: default_lat, lng: default_long} :
+			{lat: start_lat, lng: start_long};
+
+		let map = new google.maps.Map(document.getElementById('large-map'), {
+			zoom: 17,
+			center: center
+		});
+
+		if (window.artwork_locations) {
+			for (let artwork of window.artwork_locations) {
+				let marker = new google.maps.Marker({
+					position: {lat: artwork.lat, lng: artwork.long},
+					map: map,
+					label: artwork.title
+				});
+
+				marker.addListener('click', () => {
+					window.location.pathname = '/artwork/' + artwork.uid
+				});
+			}
+		}
+
+		if (start_lat !== undefined && start_long !== undefined) {
+			let marker = new google.maps.Marker({
+				position: center,
+				map: map,
+				animation: google.maps.Animation.DROP,
+				label: 'You are here'
+			});
+		}
+	};
+
+	window.load_large_map = function () {
+
+		if (navigator.geolocation) {
+			navigator.geolocation.getCurrentPosition(
+				(position) => render_large_map(position.coords.latitude, position.coords.longitude),
+				() => render_large_map()
+			);
+		} else {
+			render_large_map()
 		}
 	}
 
