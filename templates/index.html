@@ -33,7 +33,10 @@
 				{% if artwork.images %}
 					<figure class="artwork" title="{{ artwork.title }}">
 						<a href="/artwork/{{ artwork.id }}">
-							<img src="/static/images/full/{{ artwork.images[0] }}">
+							<img class="b-lazy"
+							     src="/static/tinytrans.gif"
+							     data-src="/static/images/full/{{ artwork.images[0] }}"
+							     alt="photo of {{ artwork.title }}">
 						</a>
 					</figure>
 				{% endif %}

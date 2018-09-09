@@ -1,3 +1,5 @@
+import Blazy from '../../node_modules/blazy/blazy';
+
 (function () {
 	'use strict';
 
@@ -11,6 +13,10 @@
 	//
 	// 	 new google.maps.Marker({position: {lat: -34.397, lng: 150.644}, map: map});
 	// };
+
+	if (document.querySelector('.artwork-grid')) {
+		let blazy = new Blazy();
+	}
 
 
 	let artwork_filters = document.querySelectorAll('.filter-artwork select');
