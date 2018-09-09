@@ -1,23 +1,26 @@
 (function () {
 	'use strict';
 
-	let artwork_filters = document.querySelectorAll('.filter-artwork select');
+	window.addEventListener('load', () => {
+		let artwork_filters = document.querySelectorAll('.filter-artwork select');
 
-	if (artwork_filters) {
-		for (let filter of artwork_filters) {
-			filter.addEventListener('change', () => {
+		if (artwork_filters) {
+			for (let filter of artwork_filters) {
+				filter.addEventListener('change', () => {
 
-				const selected = filter.options[filter.selectedIndex];
-				const name = filter.name;
+					const selected = filter.options[filter.selectedIndex];
+					const name = filter.name;
 
-				if (filter.selectedIndex === 0) {
-					window.location.pathname = '/';
-				} else if (selected) {
-					window.location.pathname = '/' + name + '/' + selected.value;
-				}
-			});
+					if (filter.selectedIndex === 0) {
+						window.location.pathname = '/';
+					} else if (selected) {
+						window.location.pathname = '/' + name + '/' + selected.value;
+					}
+				});
+			}
 		}
-	}
+
+	});
 
 	let render_large_map = function (start_lat, start_long) {
 		const default_lat = -42.8838359, default_long = 147.3311996;
