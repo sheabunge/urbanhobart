@@ -22,6 +22,10 @@ def load_json():
 	with open('data/artwork.json', 'r') as datafile:
 		for record in json.load(datafile):
 			record = Artwork(record)
+
+			if not record.images:
+				continue
+
 			artwork_list[record.id] = record
 
 			materials.update(record.material.split(', '))
