@@ -36,12 +36,12 @@
 		}
 
 		&:hover {
-			color: #41a62a;
+			color: #FF4136;
 			text-decoration: none;
 		}
 
 		&.current {
-			color: #55d737;
+			color: red;
 			font-weight: 900;
 		}
 	}
