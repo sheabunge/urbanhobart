@@ -9,23 +9,28 @@ class Artwork:
 
 	def __init__(self, fields=None):
 
-		self.lat = self.long = None
-
 		self.title = ''
 		self.id = ''
 
 		self.artist = ''
 
 		self.material = ''
-		self.address = ''
+
 		self.description = ''
 		self.type = ''
 
 		self.year = None
 		self.date = None
 
+		self.address = ''
+		self.precise_address = ''
+
+		self.lat = self.long = self.precise_lat = self.precise_long = None
+		self.place_id = None
+
 		self.link_url = ''
 		self.images = []
+		self.remote_images = []
 
 		if fields:
 			self.set_fields(fields)

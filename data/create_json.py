@@ -8,6 +8,8 @@ from urllib.request import urlretrieve
 from urllib.error import HTTPError
 
 
+DOWNLOAD_IMAGES = True
+
 with open('urban_art.csv', mode='r', encoding='utf-8-sig') as csv_file:
 	reader = csv.DictReader(csv_file)
 	records = list(reader)
@@ -18,14 +20,8 @@ with open('urban_art_walls.csv', mode='r', encoding='utf-8-sig') as csv_file:
 
 image_dir = path.join(path.dirname(path.abspath(path.curdir)), 'static', 'images', 'full')
 
-if path.exists(image_dir):
-	for file in os.listdir(image_dir):
-		file = path.join(image_dir, file)
-		if path.isfile(file):
-			os.remove(file)
-else:
+if not path.exists(image_dir):
 	os.makedirs(image_dir)
-
 
 artwork_ids = set()
 artworks = []
@@ -92,16 +88,16 @@ for record in records:
 
 		if path.exists(filename):
 			print(f'{filename} already exists')
-			continue
+		else:
+			print(f'downloading {image_url} to {filename}')
 
-		print(f'downloading {image_url} to {filename}')
+			try:
+				urlretrieve(image_url, path.join(image_dir, filename))
+			except HTTPError as e:
+				print(e.msg)
+				continue
 
-		try:
-			urlretrieve(image_url, path.join(image_dir, filename))
-		except HTTPError as e:
-			print(e.msg)
-			continue
-
+		artwork.remote_images.append(image_url)
 		artwork.add_image(filename)
 		image += 1
 

@@ -89,17 +89,14 @@ def render_artwork(artwork_id):
 	print(artwork.get_fields())
 
 	map_url = ''
-	address_overrides = {
-		'Marieville esplanade foreshore': 'Marieville Esplanade, Sandy Bay TAS',
-		'Derwent Lane jetty': 'Derwent Lane, Battery Point TAS'
-	}
-
 	url_base = 'https://www.google.com/maps/embed/v1/search?key=AIzaSyDHcTEGDOEvnSfv7oQbEcGxzIWFxPVDeM4'
 
-	if artwork.lat and artwork.long:
-		map_url = url_base + '&q=' + requests.utils.quote(f'{artwork.lat},{artwork.long}')
-	if artwork.address:
-		map_url = url_base + '&q=' + requests.utils.quote(artwork.address)
+	if False and artwork.place_id:
+		map_url = url_base + '&q=place_id:' + requests.utils.quote(artwork.place_id)
+	elif artwork.precise_address:
+		map_url = url_base + '&q=' + requests.utils.quote(artwork.precise_address)
+	elif artwork.precise_lat and artwork.precise_long:
+		map_url = url_base + '&q=' + requests.utils.quote(f'{artwork.precise_lat},{artwork.precise_long}')
 
 	return render_template('artwork.html', artwork=artwork, map_url=map_url, **global_context)
 
