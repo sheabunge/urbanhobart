@@ -18,6 +18,7 @@ import buffer from 'vinyl-buffer';
 import uglify from 'gulp-uglify';
 import eslint from 'gulp-eslint';
 
+import imagemin from 'gulp-imagemin';
 import image_resize from 'gulp-image-resize';
 
 let browsersync = require('browser-sync').create();
@@ -108,13 +109,8 @@ gulp.task('clean', () => {
 
 gulp.task('images', () => {
 	return gulp.src(dirs.images + 'full/*')
-		.pipe(image_resize({
-			width : 250,
-			height : 250,
-			crop : false,
-			upscale : false
-		}))
-		.pipe(gulp.dest(dirs.images + 'med'));
+		.pipe(imagemin())
+		.pipe(gulp.dest(dirs.images + 'full'));
 
 });
 
