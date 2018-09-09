@@ -39,9 +39,16 @@
 					icon: '/static/images/thumb/' + artwork.image
 				});
 
+			    let infowindow = new google.maps.InfoWindow({
+				    content: artwork.title + '<br><img src="/static/images/full/' + artwork.image + '" width="200px" style="display: block; margin: 5px auto 0">'
+			    });
+
 				marker.addListener('click', () => {
 					window.location.pathname = '/artwork/' + artwork.uid
 				});
+
+				marker.addListener('mouseover', () => infowindow.open(map, marker));
+				marker.addListener('mouseout', () => infowindow.close(map, marker));
 			}
 		}
 
